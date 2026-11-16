@@ -54,6 +54,7 @@ async function main() {
       brand: brandOf(p.title), url: `${SITE}/${p.slug || p.url_handle}`,
       img, more: images.filter((u) => u !== img).slice(0, 9),
       cat: cats[0] || 'Generatoriai', desc: clean(p.description).slice(0, 3000),
+      cats,
     });
   }
 
@@ -81,6 +82,41 @@ async function main() {
   mkdirSync(OUT, { recursive: true });
   writeFileSync(new URL('kaina24.xml', OUT), xml);
   console.log(`kaina24.xml: ${items.length} products`);
+
+  // ---- Google Merchant Center (RSS 2.0, g: namespace) ----
+  const GOOGLE_CAT = (i) => /priedai|dalys/i.test(i.cat) ? '4709' : '1218'; // Generator Accessories / Generators
+  const productType = (i) => ['Generatoriai', ...i.cats.filter((c) => c !== 'Generatoriai')].slice(0, 3).join(' > ');
+  const gxml = [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">',
+    '<channel>',
+    '<title>Servispro, UAB – generatoriai</title>',
+    `<link>${SITE}/prekes</link>`,
+    '<description>Servispro el. parduotuvės prekės</description>',
+    ...items.map((i) => [
+      '<item>',
+      `  <g:id>${esc(i.id)}</g:id>`,
+      `  <g:title>${esc(i.title.slice(0, 150))}</g:title>`,
+      `  <g:description>${esc(i.desc.slice(0, 4900) || i.title)}</g:description>`,
+      `  <g:link>${esc(i.url)}</g:link>`,
+      `  <g:image_link>${esc(i.img)}</g:image_link>`,
+      ...i.more.map((u) => `  <g:additional_image_link>${esc(u)}</g:additional_image_link>`),
+      '  <g:availability>in_stock</g:availability>',
+      `  <g:price>${i.price} EUR</g:price>`,
+      '  <g:condition>new</g:condition>',
+      i.brand ? `  <g:brand>${esc(i.brand)}</g:brand>` : '  <g:brand>Servispro</g:brand>',
+      '  <g:identifier_exists>no</g:identifier_exists>',
+      `  <g:google_product_category>${GOOGLE_CAT(i)}</g:google_product_category>`,
+      `  <g:product_type>${esc(productType(i))}</g:product_type>`,
+      '</item>',
+    ].join('\n')),
+    '</channel>',
+    '</rss>',
+    '',
+  ].join('\n');
+  writeFileSync(new URL('google.xml', OUT), gxml);
+  console.log(`google.xml: ${items.length} products`);
+
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
