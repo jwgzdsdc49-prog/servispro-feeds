@@ -32,7 +32,7 @@ const BRANDS = [
   ['AMA', /^AMA\s+/i], ['Vinco', /^Vinco\s+/i],
 ];
 // first Lithuanian descriptive word ends the model part of the title
-const STOP = /\s(?:-\s|–\s|\(|dyzelinis|benzininis|inverterinis|dujinis|automatinis|transportavimo|generatoriaus|elektros|tylus|trifazis|vienfazis|suvirinimo|apsauginis|komplektas|kuro|ratukų|ratų|\d+(?:[.,]\d+)?\s?(?:kva|kw|w)\b)/i;
+const STOP = /\s(?:-\s|–\s|\(|nuolatinės|dyzelinis|benzininis|inverterinis|dujinis|automatinis|transportavimo|generatoriaus|elektros|tylus|trifazis|vienfazis|suvirinimo|apsauginis|komplektas|kuro|ratukų|ratų|\d+(?:[.,]\d+)?\s?(?:kva|kw|w)\b)/i;
 function brandModel(title) {
   const t = title.replace(/\s+/g, ' ').trim();
   for (const [name, re] of BRANDS) {
