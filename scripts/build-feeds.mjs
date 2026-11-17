@@ -1,11 +1,14 @@
 // Generates price-portal XML feeds from the public servispro.lt (Hostinger) store API.
 // No dependencies; Node 18+.
-import { writeFileSync, mkdirSync } from 'node:fs';
+import { writeFileSync, mkdirSync, readFileSync } from 'node:fs';
 
 const STORE = 'https://api-ecommerce.hostinger.com/store/scha_01M3V8YV4RKR7HEJB1XR4F3NJM';
 const SITE = 'https://www.servispro.lt';
 const OUT = new URL('../docs/', import.meta.url);
-const MIN_PRICE = 5; // products priced as placeholders (e.g. 1 €, "price on request") are skipped
+const MIN_PRICE = 5;
+// EAN codes keyed by model (source: manufacturers' own product pages)
+const normModel = (m) => m.toUpperCase().replace(/[^A-Z0-9]/g, '');
+const EANS = Object.fromEntries(Object.entries(JSON.parse(readFileSync(new URL('./eans.json', import.meta.url), 'utf8'))).map(([k, v]) => [normModel(k), v])); // products priced as placeholders (e.g. 1 €, "price on request") are skipped
 
 const get = async (path) => {
   const r = await fetch(STORE + path, { headers: { accept: 'application/json' } });
@@ -74,6 +77,7 @@ async function main() {
     const { brand, model } = brandModel(title);
     items.push({
       id: p.id, title, price: amountNum.toFixed(2), brand, model,
+      ean: model ? EANS[normModel(model)] || '' : '',
       sku: v.sku || '',
       url: `${SITE}/${p.slug || p.url_handle}`,
       img, more: images.filter((u) => u !== img).slice(0, 9),
@@ -92,6 +96,7 @@ async function main() {
       `    <title>${cdata(i.title)}</title>`,
       `    <price>${i.price}</price>`,
       '    <condition>new</condition>',
+      i.ean ? `    <ean_code>${i.ean}</ean_code>` : null,
       i.model ? `    <manufacturer_code>${cdata(i.sku || i.model)}</manufacturer_code>` : null,
       i.brand ? `    <manufacturer>${cdata(i.brand)}</manufacturer>` : null,
       i.model ? `    <model>${cdata(i.model)}</model>` : null,
@@ -111,7 +116,7 @@ async function main() {
     '',
   ].join('\n');
   writeFileSync(new URL('kaina24.xml', OUT), kxml);
-  console.log(`kaina24.xml: ${items.length} products (${items.filter((i) => i.model).length} with model)`);
+  console.log(`kaina24.xml: ${items.length} products (${items.filter((i) => i.model).length} with model, ${items.filter((i) => i.ean).length} with EAN)`);
 
   // ---- Google Merchant Center (RSS 2.0, g: namespace) ----
   const GOOGLE_CAT = (i) => (/priedai|dalys/i.test(i.cat) ? '4709' : '1218'); // Generator Accessories / Generators
@@ -135,11 +140,12 @@ async function main() {
       `  <g:price>${i.price} EUR</g:price>`,
       '  <g:condition>new</g:condition>',
       `  <g:brand>${esc(i.brand || 'Servispro')}</g:brand>`,
+      i.ean ? `  <g:gtin>${i.ean}</g:gtin>` : null,
       i.brand && i.model ? `  <g:mpn>${esc(i.model)}</g:mpn>` : '  <g:identifier_exists>no</g:identifier_exists>',
       `  <g:google_product_category>${GOOGLE_CAT(i)}</g:google_product_category>`,
       `  <g:product_type>${esc(productType(i))}</g:product_type>`,
       '</item>',
-    ].join('\n')),
+    ].filter(Boolean).join('\n')),
     '</channel>',
     '</rss>',
     '',
