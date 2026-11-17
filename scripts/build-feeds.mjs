@@ -5,10 +5,10 @@ import { writeFileSync, mkdirSync, readFileSync } from 'node:fs';
 const STORE = 'https://api-ecommerce.hostinger.com/store/scha_01M3V8YV4RKR7HEJB1XR4F3NJM';
 const SITE = 'https://www.servispro.lt';
 const OUT = new URL('../docs/', import.meta.url);
-const MIN_PRICE = 5;
+const MIN_PRICE = 5; // products priced as placeholders (e.g. 1 €, "price on request") are skipped
 // EAN codes keyed by model (source: manufacturers' own product pages)
 const normModel = (m) => m.toUpperCase().replace(/[^A-Z0-9]/g, '');
-const EANS = Object.fromEntries(Object.entries(JSON.parse(readFileSync(new URL('./eans.json', import.meta.url), 'utf8'))).map(([k, v]) => [normModel(k), v])); // products priced as placeholders (e.g. 1 €, "price on request") are skipped
+const EANS = Object.fromEntries(Object.entries(JSON.parse(readFileSync(new URL('./eans.json', import.meta.url), 'utf8'))).map(([k, v]) => [normModel(k), v]));
 
 const get = async (path) => {
   const r = await fetch(STORE + path, { headers: { accept: 'application/json' } });
