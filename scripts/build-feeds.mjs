@@ -151,7 +151,9 @@ async function main() {
     '',
   ].join('\n');
   writeFileSync(new URL('google.xml', OUT), gxml);
-  console.log(`google.xml: ${items.length} products`);
+  // Kainos.lt accepts the Google Merchant format; separate file so it can be filtered independently later
+  writeFileSync(new URL('kainos.xml', OUT), gxml);
+  console.log(`google.xml + kainos.xml: ${items.length} products`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
