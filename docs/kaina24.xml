@@ -1,52 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
-  <product id="prod_01M7N1JFR9Y1QTKHF4G7Q3DFAG">
-    <title><![CDATA[Könner & Söhnen KSB 18i S inverterinis generatorius 2,0 kW (pristatymas nuo sausio)]]></title>
-    <price>339.00</price>
-    <condition>new</condition>
-    <ean_code>4260405368969</ean_code>
-    <manufacturer_code><![CDATA[KSB 18i S]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KSB 18i S]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/59e25aed-1755-4231-aae1-9dcd74426e6f.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/07c8e79c-ab5e-44ab-8c95-fed72cf99483.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/336c4ba6-282c-47f8-a24c-277da26a8246.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c678f5a7-8e0a-4251-b6e0-a44171f58620.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/e0e1ea8d-86a4-4770-af48-bd18e22df416.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-18i-s-inverterinis-generatorius-2-0-kw]]></product_url>
-    <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KSB 18i S Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 18i S – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,0 / 1,8 kW Kuras: benzinas Kuro bako talpa: 4 l Triukšmo lygis Lpa (7 m) / Lwa: 70/95 dB Variklio darbinis tūris: 79 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Matmenys: 400 × 260 × 450 mm Svoris: 18 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7N1HYJCMXKMSDN3KVG5MWM8">
-    <title><![CDATA[Könner & Söhnen KSB 20i S inverterinis generatorius 2,0 kW (pristatymas nuo sausio)]]></title>
-    <price>339.00</price>
-    <condition>new</condition>
-    <ean_code>4260405369263</ean_code>
-    <manufacturer_code><![CDATA[KSB 20i S]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KSB 20i S]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/50e5a70e-88fd-4f60-bb3f-66ff8af2de1b.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/bf360b62-c878-4c6d-8085-5bf18328ec36.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/e6bda1cd-eb5f-4ea7-a85a-48373e45d31a.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/bcd41948-a142-4a11-b777-7dfd2329d86d.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-20i-s-inverterinis-generatorius-2-0-kw]]></product_url>
-    <category_name><![CDATA[Inverteriniai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KSB 20i S Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 20i S – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,0 / 1,8 kW Kuras: benzinas Kuro bako talpa: 4 l Triukšmo lygis Lpa (7 m) / Lwa: 70/95 dB Variklio darbinis tūris: 79 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Matmenys: 400 × 260 × 450 mm Svoris: 18 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M7N1HDQ1NHZHF48GRAK0WWY8">
     <title><![CDATA[Könner & Söhnen KS 1900iG S dujinis-benzininis inverterinis generatorius 2,0 kW]]></title>
     <price>509.00</price>
@@ -69,54 +22,6 @@
     <delivery>
       <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7N1GY95786TZ0JEGJYRYBNT">
-    <title><![CDATA[Könner & Söhnen KSB 38i inverterinis generatorius 3,8 kW (pristatymas nuo sausio)]]></title>
-    <price>309.00</price>
-    <condition>new</condition>
-    <ean_code>4260405369331</ean_code>
-    <manufacturer_code><![CDATA[KSB 38i]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KSB 38i]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/518e7ba6-832f-4a3f-94c2-70a0c9580134.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/ccc1c27b-a278-43bd-b532-ca852fe0a30a.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/1c1eb901-4168-4c62-96c9-5fda04e5d8d4.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/ea3cdec0-5086-47ab-a66d-d30f2df68810.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/09a57141-593d-49d4-927e-7b73987da813.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-38i-inverterinis-generatorius-3-8-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KSB 38i Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 38i – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,8 / 3,5 kW Kuras: benzinas Kuro bako talpa: 8 l Triukšmo lygis Lpa (7 m) / Lwa: 72/97 dB Variklio darbinis tūris: 223 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 25 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7N1F8KBVFXJ074YDSSVXRT9">
-    <title><![CDATA[Könner & Söhnen KSB 30i inverterinis generatorius 3,0 kW (pristatymas nuo sausio)]]></title>
-    <price>279.00</price>
-    <condition>new</condition>
-    <ean_code>4260405369270</ean_code>
-    <manufacturer_code><![CDATA[KSB 30i]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KSB 30i]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/21845e47-0890-4ac4-85cd-657ad8bf32aa.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/bd8c411c-c829-4f4c-b7a5-08f41b6681fb.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/28bd1c75-26eb-48da-967c-fcdfd73db000.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/59c09654-ac83-4787-b4c0-eed66e2fb646.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/054a2921-b94e-455b-9490-5d7c82ed97a3.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-30i-inverterinis-generatorius-3-0-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KSB 30i Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 30i – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,0 / 2,8 kW Kuras: benzinas Kuro bako talpa: 8 l Triukšmo lygis Lpa (7 m) / Lwa: 71/96 dB Variklio darbinis tūris: 208 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Matmenys: 450 × 350 × 390 mm Svoris: 23 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
   <product id="prod_01M7N1EQ6H7C2XQWF8ZER3SGNT">
