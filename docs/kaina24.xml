@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
-  <product id="prod_01M7N1JVB5G3DWXPH292YT4XBB">
-    <title><![CDATA[Könner & Söhnen KS 5500iE S ATSR inverterinis generatorius 5,5 kW]]></title>
-    <price>1389.00</price>
-    <condition>new</condition>
-    <ean_code>4260405365579</ean_code>
-    <manufacturer_code><![CDATA[KS 5500iE S ATSR]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 5500iE S ATSR]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/6dc6d556-0a46-4f4e-8fdd-3d7310c555a9.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/ca32802e-15fd-43ef-b66f-e6942738931d.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/6ba2dd75-3c28-4c92-be0b-fc92ec939a32.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/0d826024-9e19-4f68-af97-11513caae8f0.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/94bb41d7-e1f9-4a8d-81ab-147aae850fec.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-5500ie-s-atsr-inverterinis-generatorius-5-5-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 5500iE S ATSR Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KS 5500iE S ATSR – inverterinis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 5,5 / 5,0 kW Kuras: benzinas Kuro bako talpa: 13,5 l Darbo laikas esant 50 % apkrovai: ~8,4 val. Triukšmo lygis Lpa (7 m) / Lwa: 66/97 dB Variklio darbinis tūris: 312 cm³ Paleidimas: rankinis/elektrinis Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 52 kg Paruoštas automatiniam rezervo įjungimui (ATS jungiklis užsakomas atskirai) Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M7N1JFR9Y1QTKHF4G7Q3DFAG">
-    <title><![CDATA[Könner & Söhnen KSB 18i S inverterinis generatorius 2,0 kW]]></title>
+    <title><![CDATA[Könner & Söhnen KSB 18i S inverterinis generatorius 2,0 kW (pristatymas nuo sausio)]]></title>
     <price>339.00</price>
     <condition>new</condition>
     <ean_code>4260405368969</ean_code>
@@ -42,14 +18,14 @@
     <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-18i-s-inverterinis-generatorius-2-0-kw]]></product_url>
     <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KSB 18i S Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 18i S – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,0 / 1,8 kW Kuras: benzinas Kuro bako talpa: 4 l Triukšmo lygis Lpa (7 m) / Lwa: 70/95 dB Variklio darbinis tūris: 79 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Matmenys: 400 × 260 × 450 mm Svoris: 18 kg Kaina nurodyta su PVM.]]></description>
+    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KSB 18i S Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 18i S – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,0 / 1,8 kW Kuras: benzinas Kuro bako talpa: 4 l Triukšmo lygis Lpa (7 m) / Lwa: 70/95 dB Variklio darbinis tūris: 79 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Matmenys: 400 × 260 × 450 mm Svoris: 18 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
+      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
+      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
   <product id="prod_01M7N1HYJCMXKMSDN3KVG5MWM8">
-    <title><![CDATA[Könner & Söhnen KSB 20i S inverterinis generatorius 2,0 kW]]></title>
+    <title><![CDATA[Könner & Söhnen KSB 20i S inverterinis generatorius 2,0 kW (pristatymas nuo sausio)]]></title>
     <price>339.00</price>
     <condition>new</condition>
     <ean_code>4260405369263</ean_code>
@@ -65,10 +41,10 @@
     <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-20i-s-inverterinis-generatorius-2-0-kw]]></product_url>
     <category_name><![CDATA[Inverteriniai generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KSB 20i S Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 20i S – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,0 / 1,8 kW Kuras: benzinas Kuro bako talpa: 4 l Triukšmo lygis Lpa (7 m) / Lwa: 70/95 dB Variklio darbinis tūris: 79 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Matmenys: 400 × 260 × 450 mm Svoris: 18 kg Kaina nurodyta su PVM.]]></description>
+    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KSB 20i S Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 20i S – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,0 / 1,8 kW Kuras: benzinas Kuro bako talpa: 4 l Triukšmo lygis Lpa (7 m) / Lwa: 70/95 dB Variklio darbinis tūris: 79 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Matmenys: 400 × 260 × 450 mm Svoris: 18 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
+      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
+      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
   <product id="prod_01M7N1HDQ1NHZHF48GRAK0WWY8">
@@ -96,7 +72,7 @@
     </delivery>
   </product>
   <product id="prod_01M7N1GY95786TZ0JEGJYRYBNT">
-    <title><![CDATA[Könner & Söhnen KSB 38i inverterinis generatorius 3,8 kW]]></title>
+    <title><![CDATA[Könner & Söhnen KSB 38i inverterinis generatorius 3,8 kW (pristatymas nuo sausio)]]></title>
     <price>309.00</price>
     <condition>new</condition>
     <ean_code>4260405369331</ean_code>
@@ -113,38 +89,14 @@
     <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-38i-inverterinis-generatorius-3-8-kw]]></product_url>
     <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KSB 38i Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 38i – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,8 / 3,5 kW Kuras: benzinas Kuro bako talpa: 8 l Triukšmo lygis Lpa (7 m) / Lwa: 72/97 dB Variklio darbinis tūris: 223 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 25 kg Kaina nurodyta su PVM.]]></description>
+    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KSB 38i Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 38i – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,8 / 3,5 kW Kuras: benzinas Kuro bako talpa: 8 l Triukšmo lygis Lpa (7 m) / Lwa: 72/97 dB Variklio darbinis tūris: 223 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 25 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7N1FWCA3Y1G084BBDB9PF6T">
-    <title><![CDATA[Könner & Söhnen KS 6500iEG dujinis-benzininis inverterinis generatorius 6,5 kW]]></title>
-    <price>1149.00</price>
-    <condition>new</condition>
-    <ean_code>4260405364503</ean_code>
-    <manufacturer_code><![CDATA[KS 6500iEG]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 6500iEG]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/fb8f01bc-79fd-4f73-ab46-1f899fcb48ad.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/56e9f816-38d3-43e2-84f5-bd872f7945d8.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/1a310842-5ee5-4089-a7ec-d0f9d7c35209.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/1b26ee05-687a-4103-932a-dce9c209d7e2.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/b5be95b5-fc70-49e9-9ae6-527e0428658a.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-6500ieg-dujinis-benzininis-inverterinis-generatorius-6-5-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 6500iEG Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KS 6500iEG – dujinis-benzininis inverterinis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 6,5 / 6,0 kW Kuras: benzinas arba suskystintos dujos (LPG) Kuro bako talpa: 17 l Darbo laikas esant 50 % apkrovai: ~6 val. Triukšmo lygis Lpa (7 m) / Lwa: 70/97 dB Variklio darbinis tūris: 306 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 46 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
+      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
+      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
   <product id="prod_01M7N1F8KBVFXJ074YDSSVXRT9">
-    <title><![CDATA[Könner & Söhnen KSB 30i inverterinis generatorius 3,0 kW]]></title>
+    <title><![CDATA[Könner & Söhnen KSB 30i inverterinis generatorius 3,0 kW (pristatymas nuo sausio)]]></title>
     <price>279.00</price>
     <condition>new</condition>
     <ean_code>4260405369270</ean_code>
@@ -161,10 +113,10 @@
     <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-30i-inverterinis-generatorius-3-0-kw]]></product_url>
     <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KSB 30i Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 30i – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,0 / 2,8 kW Kuras: benzinas Kuro bako talpa: 8 l Triukšmo lygis Lpa (7 m) / Lwa: 71/96 dB Variklio darbinis tūris: 208 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Matmenys: 450 × 350 × 390 mm Svoris: 23 kg Kaina nurodyta su PVM.]]></description>
+    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KSB 30i Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 30i – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,0 / 2,8 kW Kuras: benzinas Kuro bako talpa: 8 l Triukšmo lygis Lpa (7 m) / Lwa: 71/96 dB Variklio darbinis tūris: 208 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Matmenys: 450 × 350 × 390 mm Svoris: 23 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
+      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
+      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
   <product id="prod_01M7N1EQ6H7C2XQWF8ZER3SGNT">
@@ -503,126 +455,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M7N185R5HQ7CSAWATRDWR0B6">
-    <title><![CDATA[Könner & Söhnen KSB 21i inverterinis generatorius 2,0 kW]]></title>
-    <price>359.00</price>
-    <condition>new</condition>
-    <ean_code>4260405363865</ean_code>
-    <manufacturer_code><![CDATA[KSB 21i]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KSB 21i]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c4857725-521d-41e0-b649-edda61b6e4ce.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/32fe56b9-e2f1-42cc-b4e3-c64397ee632a.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c157fce8-ce09-4758-bea7-b0e5b7f30228.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/1403a48b-7580-4184-b887-d266d137a9f8.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/4c785d0a-c4be-4b1c-9ffd-1fd2654812c4.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-21i-inverterinis-generatorius-2-0-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KSB 21i Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 21i – inverterinis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,0 / 1,8 kW Kuras: benzinas Kuro bako talpa: 10 l Darbo laikas esant 50 % apkrovai: ~13 val. Triukšmo lygis Lpa (7 m) / Lwa: 70/95 dB Variklio darbinis tūris: 119 cm³ Paleidimas: rankinis Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Matmenys: 455 × 385 × 435 mm Svoris: 21 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7N17V094KDMBNJKVRK8G67R">
-    <title><![CDATA[Könner & Söhnen KSB 70C benzininis generatorius 5,5 kW]]></title>
-    <price>759.00</price>
-    <condition>new</condition>
-    <ean_code>4260405365869</ean_code>
-    <manufacturer_code><![CDATA[KSB 70C]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KSB 70C]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/0cef1774-2f63-4315-a4a4-45cfca72eb84.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/cd88dae9-ac91-41d6-896b-34764e837824.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/6b893196-28a5-4576-9aba-2866f90a3890.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/3a50ffed-0ce6-4818-8fba-54d1b4d3ae27.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/094c02d9-3862-46c4-95e5-fdd5f90e4fa2.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-70c-benzininis-generatorius-5-5-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KSB 70C Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KSB 70C – benzininis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 5,5 / 5,0 kW Kuras: benzinas Kuro bako talpa: 25 l Darbo laikas esant 50 % apkrovai: ~9 val. Triukšmo lygis Lpa (7 m) / Lwa: 72/97 dB Variklio darbinis tūris: 420 cm³ Paleidimas: rankinis Svoris: 66,6 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7N17JMJWN1VDF6MPHSN3K3K">
-    <title><![CDATA[Könner & Söhnen KSB 30A benzininis generatorius 2,8 kW]]></title>
-    <price>359.00</price>
-    <condition>new</condition>
-    <ean_code>4260405365852</ean_code>
-    <manufacturer_code><![CDATA[KSB 30A]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KSB 30A]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/8e41f37a-4570-4cb8-8f67-9a8696ed33f8.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c5beedcc-0a81-4450-927e-cc2e3c7fda40.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/28b0d04b-2e78-4324-a6e9-9adf536bfd7a.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/cfa8e161-ce17-4c9e-b186-cf418a5db649.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/0f0f5912-f6c2-40b9-89df-8189f131c790.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-30a-benzininis-generatorius-2-8-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KSB 30A Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 30A – benzininis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,8 / 2,5 kW Kuras: benzinas Kuro bako talpa: 12 l Triukšmo lygis Lpa (7 m) / Lwa: 71/96 dB Variklio darbinis tūris: 210 cm³ Paleidimas: rankinis Svoris: 36,2 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7N179GA1C77YNH3X22KX39D">
-    <title><![CDATA[Könner & Söhnen KSB 2800C benzininis generatorius 2,8 kW]]></title>
-    <price>399.00</price>
-    <condition>new</condition>
-    <ean_code>4260405361953</ean_code>
-    <manufacturer_code><![CDATA[KSB 2800C]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KSB 2800C]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/e30257be-4ce5-450b-9866-d250a89e4b64.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/f03fe26d-a154-4178-806d-5a0e9a7d1e29.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/0bdb4114-5e19-491b-8f73-d2479ea4e381.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/5495baeb-e89e-44dd-9fac-ed519747596d.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/29bac76a-fb49-40e2-b5f6-e0266c7ea868.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-2800c-benzininis-generatorius-2-8-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KSB 2800C Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KSB 2800C – benzininis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,8 / 2,5 kW Kuras: benzinas Kuro bako talpa: 12 l Triukšmo lygis Lpa (7 m) / Lwa: 71/96 dB Variklio darbinis tūris: 210 cm³ Paleidimas: rankinis Svoris: 36,6 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7N170EH0WFTPMGKE8GRSPZC">
-    <title><![CDATA[Könner & Söhnen KSB 6500C benzininis generatorius 5,5 kW]]></title>
-    <price>759.00</price>
-    <condition>new</condition>
-    <ean_code>4260405362424</ean_code>
-    <manufacturer_code><![CDATA[KSB 6500C]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KSB 6500C]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/f6a5b3a6-6c31-41a0-b777-fd9562635ac9.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/0401492b-d0d3-4724-b380-721ba3a3376a.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/8e24be59-5e6c-4482-b3a1-44af5d263422.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/51f0ea48-33ea-4d9d-b353-e1470d0eb39d.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/d317c953-a632-4cb0-b725-5fe3c381d23c.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ksb-6500c-benzininis-generatorius-5-5-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KSB 6500C Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KSB 6500C – benzininis generatorius iš ekonomiškos „K&amp;S BASIC“ serijos. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 5,5 / 5,0 kW Kuras: benzinas Kuro bako talpa: 25 l Darbo laikas esant 50 % apkrovai: ~9 val. Triukšmo lygis Lpa (7 m) / Lwa: 72/97 dB Variklio darbinis tūris: 420 cm³ Paleidimas: rankinis Svoris: 66,6 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M7N1664BB7ZV0N3WFPXDVK2F">
     <title><![CDATA[Könner & Söhnen KS 9500iE S ATSR inverterinis generatorius 9,5 kW]]></title>
     <price>2369.00</price>
@@ -696,7 +528,7 @@
     </delivery>
   </product>
   <product id="prod_01M7N14YKX97ZGRVMTSG5SWY7S">
-    <title><![CDATA[Könner & Söhnen KS 3500iS H dujinis-benzininis inverterinis generatorius 3,3 kW]]></title>
+    <title><![CDATA[Könner & Söhnen KS 3500iS H dujinis-benzininis inverterinis generatorius 3,3 kW (pristatymas nuo sausio)]]></title>
     <price>779.00</price>
     <condition>new</condition>
     <ean_code>4260405365562</ean_code>
@@ -713,14 +545,14 @@
     <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-3500is-h-dujinis-benzininis-inverterinis-generatorius-3-3-kw]]></product_url>
     <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 3500iS H Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KS 3500iS H – dujinis-benzininis inverterinis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,3 / 3,0 kW Kuras: benzinas arba suskystintos dujos (LPG) Kuro bako talpa: 3,8 l Variklio darbinis tūris: 145 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 24,5 kg Kaina nurodyta su PVM.]]></description>
+    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KS 3500iS H Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KS 3500iS H – dujinis-benzininis inverterinis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,3 / 3,0 kW Kuras: benzinas arba suskystintos dujos (LPG) Kuro bako talpa: 3,8 l Variklio darbinis tūris: 145 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 24,5 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
+      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
+      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
   <product id="prod_01M7N14JY558STWP1SE6CXCQ9P">
-    <title><![CDATA[Könner & Söhnen KS 3500iS inverterinis generatorius 3,3 kW]]></title>
+    <title><![CDATA[Könner & Söhnen KS 3500iS inverterinis generatorius 3,3 kW (pristatymas nuo sausio)]]></title>
     <price>699.00</price>
     <condition>new</condition>
     <ean_code>4260405365555</ean_code>
@@ -736,14 +568,14 @@
     <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-3500is-inverterinis-generatorius-3-3-kw]]></product_url>
     <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 3500iS Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KS 3500iS – inverterinis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,3 / 3,0 kW Kuras: benzinas Kuro bako talpa: 3,8 l Variklio darbinis tūris: 145 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 23,5 kg Kaina nurodyta su PVM.]]></description>
+    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KS 3500iS Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KS 3500iS – inverterinis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,3 / 3,0 kW Kuras: benzinas Kuro bako talpa: 3,8 l Variklio darbinis tūris: 145 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 23,5 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
+      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
+      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
   <product id="prod_01M7N14224M71NDJ94MCTVHR4F">
-    <title><![CDATA[Könner & Söhnen KS 2500iS H dujinis-benzininis inverterinis generatorius 2,0 kW]]></title>
+    <title><![CDATA[Könner & Söhnen KS 2500iS H dujinis-benzininis inverterinis generatorius 2,0 kW (pristatymas nuo sausio)]]></title>
     <price>609.00</price>
     <condition>new</condition>
     <ean_code>4260405365548</ean_code>
@@ -760,14 +592,14 @@
     <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-2500is-h-dujinis-benzininis-inverterinis-generatorius-2-0-kw]]></product_url>
     <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 2500iS H Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KS 2500iS H – dujinis-benzininis inverterinis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,0 / 1,8 kW Kuras: benzinas arba suskystintos dujos (LPG) Kuro bako talpa: 3,8 l Variklio darbinis tūris: 79.7 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 19,8 kg Kaina nurodyta su PVM.]]></description>
+    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KS 2500iS H Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KS 2500iS H – dujinis-benzininis inverterinis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,0 / 1,8 kW Kuras: benzinas arba suskystintos dujos (LPG) Kuro bako talpa: 3,8 l Variklio darbinis tūris: 79.7 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 19,8 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
+      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
+      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
   <product id="prod_01M7N13EASDFW3TT7WHM71V1YY">
-    <title><![CDATA[Könner & Söhnen KS 2500iS inverterinis generatorius 2,0 kW]]></title>
+    <title><![CDATA[Könner & Söhnen KS 2500iS inverterinis generatorius 2,0 kW (pristatymas nuo sausio)]]></title>
     <price>509.00</price>
     <condition>new</condition>
     <ean_code>4260405365531</ean_code>
@@ -784,10 +616,10 @@
     <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-2500is-inverterinis-generatorius-2-0-kw]]></product_url>
     <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 2500iS Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KS 2500iS – inverterinis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,0 / 1,8 kW Kuras: benzinas Kuro bako talpa: 3,8 l Variklio darbinis tūris: 79.7 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 19,3 kg Kaina nurodyta su PVM.]]></description>
+    <description><![CDATA[Išankstinis užsakymas – pristatymas nuo 2027 m. sausio. Naujas modelis, pirmosios siuntos Lietuvoje laukiamos sausio mėn. Užsisakykite dabar – generatorių rezervuosime ir pristatysime vos tik gausime. Modelis: KS 2500iS Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: kempingas, sodas, nedideli namų ūkio prietaisai, darbai lauke Könner &amp; Söhnen KS 2500iS – inverterinis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 2,0 / 1,8 kW Kuras: benzinas Kuro bako talpa: 3,8 l Variklio darbinis tūris: 79.7 cm³ Įtampos reguliavimas: inverterinė technologija (tinka jautriai elektronikai) Svoris: 19,3 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
+      <home_delivery><working_days>30-60</working_days><price>0.00</price></home_delivery>
+      <store_pickup><working_days>30-60</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
   <product id="prod_01M7N11XPGZJ136HT4NG91EPSW">
