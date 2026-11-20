@@ -6,6 +6,10 @@ const STORE = 'https://api-ecommerce.hostinger.com/store/scha_01M3V8YV4RKR7HEJB1
 const SITE = 'https://www.servispro.lt';
 const OUT = new URL('../docs/', import.meta.url);
 const MIN_PRICE = 5; // products priced as placeholders (e.g. 1 €, "price on request") are skipped
+// Products marked "(pristatymas nuo sausio)" in the title: supplier ships from Jan 2027
+const PREORDER = /pristatymas nuo sausio/i;
+const PREORDER_DATE = '2027-01-15T00:00:00+02:00';
+const PREORDER_DAYS = '30-60';
 // EAN codes keyed by model (source: manufacturers' own product pages)
 const normModel = (m) => m.toUpperCase().replace(/[^A-Z0-9]/g, '');
 const EANS = Object.fromEntries(Object.entries(JSON.parse(readFileSync(new URL('./eans.json', import.meta.url), 'utf8'))).map(([k, v]) => [normModel(k), v]));
@@ -82,6 +86,7 @@ async function main() {
       url: `${SITE}/${p.slug || p.url_handle}`,
       img, more: images.filter((u) => u !== img).slice(0, 9),
       cat: cats[0] || 'Generatoriai', cats, desc: clean(p.description).slice(0, 3000),
+      preorder: PREORDER.test(title),
     });
   }
   if (items.length < 50) throw new Error(`Only ${items.length} products – refusing to overwrite feed`);
@@ -107,8 +112,8 @@ async function main() {
       `    <category_link>${cdata(SITE + '/prekes')}</category_link>`,
       `    <description>${cdata(i.desc)}</description>`,
       '    <delivery>',
-      '      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>',
-      '      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>',
+      `      <home_delivery><working_days>${i.preorder ? PREORDER_DAYS : '1-3'}</working_days><price>0.00</price></home_delivery>`,
+      `      <store_pickup><working_days>${i.preorder ? PREORDER_DAYS : '1'}</working_days><price>0.00</price></store_pickup>`,
       '    </delivery>',
       '  </product>',
     ].filter(Boolean).join('\n')),
@@ -136,7 +141,8 @@ async function main() {
       `  <g:link>${esc(i.url)}</g:link>`,
       `  <g:image_link>${esc(i.img)}</g:image_link>`,
       ...i.more.map((u) => `  <g:additional_image_link>${esc(u)}</g:additional_image_link>`),
-      '  <g:availability>in_stock</g:availability>',
+      i.preorder ? '  <g:availability>preorder</g:availability>' : '  <g:availability>in_stock</g:availability>',
+      i.preorder ? `  <g:availability_date>${PREORDER_DATE}</g:availability_date>` : null,
       `  <g:price>${i.price} EUR</g:price>`,
       '  <g:condition>new</g:condition>',
       `  <g:brand>${esc(i.brand || 'Servispro')}</g:brand>`,
