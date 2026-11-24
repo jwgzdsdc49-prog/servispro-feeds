@@ -714,30 +714,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M7WM3WDXWMN1M6S7X26H8JJD">
-    <title><![CDATA[Könner & Söhnen KS 2900G dujinis-benzininis generatorius 2,9 kW]]></title>
-    <price>479.00</price>
-    <condition>new</condition>
-    <ean_code>4260405364978</ean_code>
-    <manufacturer_code><![CDATA[KS 2900G]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 2900G]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/22ddc522-5834-4675-9b45-711d2f716fb3.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/5897b47c-0b3b-4627-b832-2079da27d52a.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/dff83d98-8b5d-40be-bef8-36da54f62bf7.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/ba783c93-96e9-4efb-94d9-da69f7746154.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/10d496b4-c945-4468-b464-5100b7203882.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-2900g-dujinis-benzininis-generatorius-2-9-kw]]></product_url>
-    <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 2900G Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: statybos, sodyba, rezervinis maitinimas, elektriniai įrankiai Könner &amp; Söhnen KS 2900G – generatorius, veikiantis dujomis (LPG) arba benzinu. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 230 Maksimali galia, kW: 2.9 Nominali galia, kW: 2.5 Variklio užvedimas: Rankinis Galios faktorius, cosφ: 1 Dažnis, Hz: 50 Srovė (maks.), A: 12.5 Kuro bako talpa, l: 15 Veikimo laikas esant 50% apkrovai, h: 15 Triukšmo lygis Lpa (7m)/Lwa, dB: 68/93 Galia DC, V/A: 12/8.3 Variklio modelis: KS 200 Variklio tipas: Vieno cilindro, keturtaktis, oru aušinamas, varomas LPG/benzinu Variklio galia, AG/kW: 6.5/5.15 Kuro tipas: SND/benzinas Variklio cilindro tūris, cm3: 196 Galios išvesties valdiklis: Išmanioji įtampos stabilizavimo sistema AVR Generatoriaus apvija: Aliuminis Apsaugos klasė: IP23M Grynasis matmenys (IxPxA), mm: 580x430x440 Bendri matmenys (IxPxA), mm: 610x455x485 Grynasis svoris, kg: 43 Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M4TD38A2B2529TJFF215K1SA">
     <title><![CDATA[Könner & Söhnen KS 3000 benzininis generatorius 3,0 kW]]></title>
     <price>479.00</price>
@@ -756,29 +732,6 @@
     <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
     <description><![CDATA[Modelis: KS 3000 Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KS 3000 – patikimas benzininis elektros generatorius su AVR įtampos stabilizavimu, 100 % varinėmis apvijomis ir tvirtu plieniniu rėmu. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,0 / 2,6 kW Lizdai: 2 × Schuko 230 V Kuras: benzinas Kuro bako talpa: 15 l Darbo laikas esant 50 % apkrovai: ~15 val. Triukšmo lygis (7 m): 68 dB Variklis: KS 210, 208 cm³ Paleidimas: rankinis Įtampos reguliavimas: AVR Matmenys: 580 × 430 × 440 mm Svoris: 41,5 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M4TD3CNDXSXDRJBM2YDA87RJ">
-    <title><![CDATA[Könner & Söhnen KS 3300i inverterinis generatorius 3,3 kW]]></title>
-    <price>479.00</price>
-    <condition>new</condition>
-    <ean_code>4260405366316</ean_code>
-    <manufacturer_code><![CDATA[KS 3300i]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 3300i]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c95a64b6-eba2-4763-9198-668568db7f2b.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/f06331ad-079b-4c91-ba55-4565ddb234df.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/3d67272c-c1a6-417d-8828-fd8ce7c9a3eb.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/4718b9cd-94f0-4a47-b1f4-58604ee1fad2.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-3300i-inverterinis-generatorius-3-3-kw]]></product_url>
-    <category_name><![CDATA[Inverteriniai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 3300i Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: jautrios elektronikos maitinimas, laisvalaikis, rezervinis maitinimas Könner &amp; Söhnen KS 3300i – inverterinis generatorius, gaminantis stabilią, „švarią“ elektros srovę, saugią jautriai elektronikai. Ekonomiškas ir tylus. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 3,3 / 3,0 kW Lizdai: 2 × Schuko 230 V Kuras: benzinas Kuro bako talpa: 7 l Triukšmo lygis (7 m): 71 dB Variklis: KS 210i, 208 cm³ Paleidimas: rankinis Įtampos reguliavimas: inverteris Matmenys: 433 × 376 × 462 mm Svoris: 25,5 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
       <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
@@ -1174,30 +1127,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M7WM1NKFCQVRVV48KFEC981J">
-    <title><![CDATA[Könner & Söhnen KS 4500i inverterinis generatorius 4,5 kW]]></title>
-    <price>579.00</price>
-    <condition>new</condition>
-    <ean_code>4260405368327</ean_code>
-    <manufacturer_code><![CDATA[KS 4500i]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 4500i]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/3d4b9da3-4d9d-4093-a3b3-398e2beefa15.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/b103ab40-7554-4945-a6a4-254c072a6acd.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/cb7cd544-4fe9-4c49-9600-0bee0b2960f8.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/cd06ee8a-f473-4f59-8e47-3727644b7b71.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/ed29cdda-3a1c-4191-a94d-6c817fa76b11.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-4500i-inverterinis-generatorius-4-5-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 4500i Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų rezervinis maitinimas, jautri elektronika, kempingas, darbai lauke Könner &amp; Söhnen KS 4500i – inverterinis benzininis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 230 Maksimali galia, kW: 4.5 Nominali galia, kW: 4.2 Variklio užvedimas: Rankinis Galios faktorius, cosφ: 1 Dažnis, Hz: 50 Srovė (maks.), A: 19.6 Kuro bako talpa, l: 13 Veikimo laikas esant 50% apkrovai, h: 9.18 Triukšmo lygis Lpa (7m)/Lwa, dB: 72/97 Galia DC, V/A: 12V/8.3A USB-Išvestys: USB QC 3.0 + Type C Variklio modelis: KS 240i Variklio cilindro tūris, cm3: 223 Variklio tipas: 4-taktis benzinas Variklio galia, AG: 6.1 Generatoriaus apvija: Varis Grynasis matmenys (IxPxA), mm: 455x440x480 Bendri matmenys (IxPxA), mm: 480x460x525 Grynasis svoris, kg: 33 Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M5M58S9ARP0D0779XAQ0J273">
     <title><![CDATA[BlackStone BG 7550-X ES benzininis generatorius 5,4 kW 230 V]]></title>
     <price>595.00</price>
@@ -1325,30 +1254,6 @@
     <category_name><![CDATA[Inverteriniai generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
     <description><![CDATA[AMA G1000i – inverterinis benzininis elektros generatorius su garso izoliaciniu gaubtu, 0,95 kW maksimalios galios, 230 V. Tinka jautriai elektronikai, namams, kemperiams ir laisvalaikiui. Techniniai duomenys Gamintojas: Ama Kuras: benzinas Maksimali galia: 0,95 kW Nuolatinė galia 230 V: 0,85 kW Įtampa: 230 V, 50 Hz (1 fazė) Inverteris: taip – stabili „švari“ srovė jautriai elektronikai Paleidimas: rankinis Tylus: taip, su garso izoliaciniu gaubtu Variklis: gamintojo variklis Darbinis tūris: 50 cm³ Konstrukcija: nešiojamas Svoris su pakuote: 21 kg Pristatymas į Lietuvą per 10–14 darbo dienų. Servispro atlieka generatorių paleidimą, techninę priežiūrą, garantinį ir pogarantinį remontą Kaune bei mobiliuoju servisu visoje Lietuvoje. Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7WM0AT49S5D1TRESQ4FTS6Y">
-    <title><![CDATA[Könner & Söhnen KS 3000i S inverterinis generatorius 3,3 kW]]></title>
-    <price>629.00</price>
-    <condition>new</condition>
-    <ean_code>4260405367160</ean_code>
-    <manufacturer_code><![CDATA[KS 3000i S]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 3000i S]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/a45661cd-f696-4343-b851-8e17eb9afe21.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c25fd5c1-3bba-4238-8c44-e09b98f28f1f.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/d5ab3b76-8299-414c-a318-9a5c3ed3269d.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/4903ad8e-e23d-4a13-8a52-eda10b821976.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/a63daf4b-7622-41f9-9ce0-62e285d11df1.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-3000i-s-inverterinis-generatorius-3-3-kw]]></product_url>
-    <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 3000i S Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų rezervinis maitinimas, jautri elektronika, kempingas, darbai lauke Könner &amp; Söhnen KS 3000i S – inverterinis benzininis generatorius su švaria, stabilia įtampa. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 230 Maksimali galia, kW: 3.3 Nominali galia, kW: 3.0 Variklio užvedimas: Rankinis Galios faktorius, cosφ: 1 Dažnis, Hz: 50 Srovė (maks.), A: 14.3 Kuro bako talpa, l: 4 Veikimo laikas esant 50% apkrovai, h: 4 Triukšmo lygis Lpa (7m)/Lwa, dB: 68/95 Galia DC, V/A: 12V/8.3A Variklio modelis: KS 160i Variklio cilindro tūris, cm3: 150 Variklio tipas: Benzinu varomas vieno cilindro, keturtaktis oru aušinamas Variklio galia, AG: 5 Apsaugos klasė: IP23M Grynasis matmenys (IxPxA), mm: 500 × 285 × 460 Bendri matmenys (IxPxA), mm: 520 × 350 × 565 Grynasis svoris, kg: 22.5 Kaina nurodyta su PVM.]]></description>
     <delivery>
       <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
@@ -1541,30 +1446,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M7WM1ZRRRCSRYDXKMFE0S8H8">
-    <title><![CDATA[Könner & Söhnen KS 4500iG dujinis-benzininis inverterinis generatorius 4,5 kW]]></title>
-    <price>679.00</price>
-    <condition>new</condition>
-    <ean_code>4260405368310</ean_code>
-    <manufacturer_code><![CDATA[KS 4500iG]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 4500iG]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/f54c21ac-f1c5-46fb-a9e9-903868f4a051.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/ff5b954c-fb4f-482e-9c5b-302d91bc0e26.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/0c5d6280-758a-4fca-93f8-7c38c7f6ea0a.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/fdd905ee-b63a-48a0-a75e-18b88f41b2ff.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/576e2e64-26c6-467b-bf75-4c70198e1472.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-4500ig-dujinis-benzininis-inverterinis-generatorius-4-5-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 4500iG Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų rezervinis maitinimas, jautri elektronika, kempingas, darbai lauke Könner &amp; Söhnen KS 4500iG – inverterinis generatorius, veikiantis dujomis (LPG) arba benzinu. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 230 Maksimali galia, kW: 4.5 Nominali galia, kW: 4.2 Variklio užvedimas: Rankinis Galios faktorius, cosφ: 1 Dažnis, Hz: 50 Srovė (maks.), A: 19.6 Kuro bako talpa, l: 13 Veikimo laikas esant 50% apkrovai, h: 9.18 Triukšmo lygis Lpa (7m)/Lwa, dB: 72/97 Galia DC, V/A: 12V/8.3A USB-Išvestys: USB QC 3.0 + Type-C Variklio modelis: KS 240i Variklio cilindro tūris, cm3: 223 Variklio tipas: 4-taktis LPG/benzinas Variklio galia, AG: 6.1 Generatoriaus apvija: Varis Grynasis matmenys (IxPxA), mm: 455×440×480 Bendri matmenys (IxPxA), mm: 480×460×525 Grynasis svoris, kg: 33.5 Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M5M55PNEZZGZ746JA8FY13T3">
     <title><![CDATA[GeoTech Pro GGP 8000-3 ES benzininis generatorius 6,5 kW 230/400 V]]></title>
     <price>683.00</price>
@@ -1736,30 +1617,6 @@
     <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
     <description><![CDATA[BullMach AMBRA 12000 E – benzininis elektros generatorius, 8,5 kW maksimalios galios, 230 V. Tinka namų ūkio rezerviniam maitinimui, statyboms, ūkiui ir darbams lauke. Techniniai duomenys Gamintojas: BullMach Modelis: AMBRA 12000 E Kuras: benzinas Maksimali galia: 8,5 kW Nuolatinė galia 230 V: 7,8 kW Įtampa: 230 V, 50 Hz (1 fazė) Inverteris: ne (AVR įtampos reguliavimas) Paleidimas: elektrinis ir rankinis Variklis: PT192FC Darbinis tūris: 460 cm³ Konstrukcija: su rėmu / ant ratų Svoris su pakuote: 107,2 kg Pristatymas į Lietuvą per 10–14 darbo dienų. Servispro atlieka generatorių paleidimą, techninę priežiūrą, garantinį ir pogarantinį remontą Kaune bei mobiliuoju servisu visoje Lietuvoje. Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7WM48YW5H9VE3EANH4SFPVH">
-    <title><![CDATA[Könner & Söhnen KS 24VS-DC nuolatinės srovės (24 V) generatorius 1,6 kW]]></title>
-    <price>749.00</price>
-    <condition>new</condition>
-    <ean_code>4260405368297</ean_code>
-    <manufacturer_code><![CDATA[KS 24VS-DC]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 24VS-DC]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/54693e74-4d39-4a84-92be-b00f2f086a68.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/3a574bdd-ca31-4e44-960b-59b30d69a830.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/af8acda7-b8cf-4a25-be79-0fa2c3d519aa.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/7b130553-9b82-4f16-b02a-aaaf8e3c60f8.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/dacab510-5c7a-46bb-9e3a-07cac3330f6f.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-24vs-dc-nuolatines-sroves-24-v-generatorius-1-6-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 24VS-DC Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: akumuliatorių įkrovimas, telekomunikacijų ir autonominės 24 V sistemos Könner &amp; Söhnen KS 24VS-DC – nuolatinės srovės (24 V DC) benzininis generatorius su starteriu. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 24-27 Nominali galia, kW: 1.6 Variklio užvedimas: automatinis, rankinis Srovė (maks.), A: 60 Kuro bako talpa, l: 5 Triukšmo lygis Lpa (7m)/Lwa, dB: 62/87 Variklio modelis: KS 100i Variklio tipas: 4-taktis benzinas Variklio galia, AG: 2.5 Variklio cilindro tūris, cm3: 79.7 Apsaugos klasė: IP23M Grynasis matmenys (IxPxA), mm: 500×285×460 Bendri matmenys (IxPxA), mm: 625×335×540 Grynasis svoris, kg: 21 Kaina nurodyta su PVM.]]></description>
     <delivery>
       <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
@@ -2075,30 +1932,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M7WM4NTQ8Q7SQK9X610NJQF5">
-    <title><![CDATA[Könner & Söhnen KS 24VM-DC nuolatinės srovės (24 V) generatorius 1,6 kW]]></title>
-    <price>839.00</price>
-    <condition>new</condition>
-    <ean_code>4260405368426</ean_code>
-    <manufacturer_code><![CDATA[KS 24VM-DC]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 24VM-DC]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/6e2220bc-d865-4d5e-9d86-910a8e756f16.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/69bd55a8-bf2d-4e7e-a5f4-f168b1f2d8c5.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/d8372ed6-474a-40c6-9e60-3b674f8e5cfb.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/926e1f4a-75af-4781-a757-b4b4832ed5ef.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c2cac39e-2cfb-4a53-a256-83b198ffdfeb.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-24vm-dc-nuolatines-sroves-24-v-generatorius-1-6-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 24VM-DC Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: akumuliatorių įkrovimas, telekomunikacijų ir autonominės 24 V sistemos Könner &amp; Söhnen KS 24VM-DC – nuolatinės srovės (24 V DC) benzininis generatorius. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 24–27.5 Nominali galia, kW: 1.6 Variklio užvedimas: automatinis, rankinis Srovė (maks.), A: 60 Kuro bako talpa, l: 8 Triukšmo lygis Lpa (7m)/Lwa, dB: 69/93 Variklio tipas: 4-taktis benzinas Variklio galia, AG: 2.5 Variklio cilindro tūris, cm3: 79.7 Apsaugos klasė: IP23M Grynasis matmenys (IxPxA), mm: 520×330×540 Bendri matmenys (IxPxA), mm: 595×350×565 Grynasis svoris, kg: 27.5 Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M5M5973PE5AETT4P3995WQGC">
     <title><![CDATA[Pramac P3000I inverterinis benzininis generatorius 2,6 kW 230 V]]></title>
     <price>839.00</price>
@@ -2257,30 +2090,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M7WM3MV4KKJE8YJYR6V964Z2">
-    <title><![CDATA[Könner & Söhnen KS 7000E benzininis generatorius 5,5 kW]]></title>
-    <price>879.00</price>
-    <condition>new</condition>
-    <ean_code>4260405361120</ean_code>
-    <manufacturer_code><![CDATA[KS 7000E]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 7000E]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/bd971f95-9970-4831-8964-980eb96b2a59.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/3971ae81-3f9a-450d-8b1b-5da9d31f45c2.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/a8b6aeb0-9ea3-43fd-8148-c78bea918300.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/20fe4702-6d1d-40f5-88f3-09eea6b65103.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/b449947a-2ffc-408f-a722-05f5b35e3393.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-7000e-benzininis-generatorius-5-5-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 7000E Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: statybos, sodyba, rezervinis maitinimas, elektriniai įrankiai Könner &amp; Söhnen KS 7000E – benzininis generatorius su elektriniu paleidimu. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 230 Maksimali galia, kW: 5.5 Nominali galia, kW: 5.0 Variklio užvedimas: Rankinis/elektrinis Galios faktorius, cosφ: 1 Dažnis, Hz: 50 Srovė (maks.), A: 23.91 Kuro bako talpa, l: 25 Veikimo laikas esant 50% apkrovai, h: 17 Triukšmo lygis Lpa (7m)/Lwa, dB: 70/95 Galia DC, V/A: 12/8.3 Variklio modelis: KS 390 Variklio tipas: Benzinu varomas vieno cilindro, keturtaktis oru aušinamas Variklio galia, AG/kW: 13.0/9.56 Kuro tipas: Benzinas Variklio cilindro tūris, cm3: 389 Galios išvesties valdiklis: Išmanioji įtampos stabilizavimo sistema AVR Generatoriaus apvija: Varis Apsaugos klasė: IP23M Grynasis matmenys (IxPxA), mm: 680x545x550 Bendri matmenys (IxPxA), mm: 700x545x590 Grynasis svoris, kg: 76.2 Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M5M54MDXC099PR49PN647AN6">
     <title><![CDATA[AMA G3000I inverterinis benzininis generatorius 3 kW 230 V]]></title>
     <price>882.00</price>
@@ -2400,30 +2209,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M7WM0N4DPKGCKRPX9455DT30">
-    <title><![CDATA[Könner & Söhnen KS 4000iE S inverterinis generatorius 4,4 kW]]></title>
-    <price>909.00</price>
-    <condition>new</condition>
-    <ean_code>4260405363377</ean_code>
-    <manufacturer_code><![CDATA[KS 4000iE S]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 4000iE S]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c88be61f-6f1e-4799-8cdd-99c2c81d8056.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/01068b58-3914-4ef1-b512-83472e75f834.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/3a6cb4fc-4815-48dc-b371-49cb195f6f50.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/909f81d0-dec9-4c30-8111-5d3bbdf193e0.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/f6791ba0-ce43-4ec0-994b-4a00912a796e.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-4000ie-s-inverterinis-generatorius-4-4-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 4000iE S Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų rezervinis maitinimas, jautri elektronika, kempingas, darbai lauke Könner &amp; Söhnen KS 4000iE S – inverterinis benzininis generatorius su elektriniu paleidimu. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 230 Maksimali galia, kW: 4.4 Nominali galia, kW: 4.0 Variklio užvedimas: Rankinis/elektrinis Galios faktorius, cosφ: 1 Dažnis, Hz: 50 Srovė (maks.), A: 19.1 Kuro bako talpa, l: 13 Veikimo laikas esant 50% apkrovai, h: 7 h 15 min Triukšmo lygis Lpa (7m)/Lwa, dB: 66/97 Galia DC, V/A: 12V/8.3A USB-Išvestys: USB QC 3.0 + C tipo Variklio modelis: KS 240i Variklio cilindro tūris, cm3: 223 Variklio tipas: Benzinu varomas vieno cilindro, keturtaktis oru aušinamas Variklio galia, AG: 7.5 Galimybė lygiagrečiam sujungimui: + Išvestis ATS: + Akumuliatorius (A·h): 1.6 Generatoriaus apvija: Varis Apsaugos klasė: IP23M Grynasis matmenys (IxPxA), mm: 595×440×510 Bendri matmenys (IxPxA), mm: 675×500×575 Grynasis svoris, kg: 38 Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M5M54K0B040FTG6X0QXWZQJH">
     <title><![CDATA[Pramac WX7000 benzininis generatorius 6,1 kW 230 V]]></title>
     <price>922.00</price>
@@ -2504,29 +2289,6 @@
     <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
     <description><![CDATA[BullMach AMBRA 12000 E-3 – benzininis elektros generatorius, 8,5 kW maksimalios galios, 230/400 V, su automatinio paleidimo (ATS) skydu – nutrūkus tinklo įtampai generatorius pasileidžia pats. Tinka namų ūkio rezerviniam maitinimui, statyboms, ūkiui ir darbams lauke. Techniniai duomenys Gamintojas: BullMach Kuras: benzinas Maksimali galia: 8,5 kW Nuolatinė galia 230 V: 2,6 kW Nuolatinė galia 400 V: 7,8 kW Įtampa: 400 V / 230 V, 50 Hz (3 fazės) Inverteris: ne (AVR įtampos reguliavimas) Paleidimas: elektrinis ir rankinis Automatinis paleidimas (ATS): taip, ATS skydas komplekte Variklis: PT192FC Darbinis tūris: 460 cm³ Konstrukcija: su rėmu / ant ratų Svoris su pakuote: 115,2 kg Pristatymas į Lietuvą per 10–14 darbo dienų. Servispro atlieka generatorių paleidimą, techninę priežiūrą, garantinį ir pogarantinį remontą Kaune bei mobiliuoju servisu visoje Lietuvoje. Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M4TD397RVGQJW67X03AYPN2K">
-    <title><![CDATA[Könner & Söhnen KS 7000E G dujinis-benzininis generatorius 5,5 kW]]></title>
-    <price>959.00</price>
-    <condition>new</condition>
-    <ean_code>4260405361144</ean_code>
-    <manufacturer_code><![CDATA[KS 7000E G]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 7000E G]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/4d851da7-86d3-4b31-8374-39bf925b8382.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/a259c205-28b4-4e72-b7a5-25eda3736c23.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/e7b8abe2-f103-4777-b1f3-814ce580d43e.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/845a5004-5774-4df6-a1c1-187f56158f08.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-7000e-g-dujinis-benzininis-generatorius-5-5-kw]]></product_url>
-    <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 7000E G Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KS 7000E G – elektros generatorius, veikiantis benzinu arba suskystintomis dujomis (LPG) – lankstus kuro pasirinkimas ir mažesnės eksploatacijos sąnaudos. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 5,5 / 5,0 kW Lizdai: 1 × Schuko 230 V, 1 × CEE 230 V 32 A Kuras: benzinas arba suskystintos dujos (LPG) Kuro bako talpa: 25 l Darbo laikas esant 50 % apkrovai: ~17 val. Triukšmo lygis (7 m): 70 dB Variklis: KS 390, 389 cm³ Paleidimas: rankinis ir elektrinis Įtampos reguliavimas: AVR Matmenys: 680 × 545 × 550 mm Svoris: 77,2 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
       <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
@@ -2682,30 +2444,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M7WM29G1CCQ5Z79Z51RYWCXA">
-    <title><![CDATA[Könner & Söhnen KS 6500iE inverterinis generatorius 6,5 kW]]></title>
-    <price>1009.00</price>
-    <condition>new</condition>
-    <ean_code>4260405368334</ean_code>
-    <manufacturer_code><![CDATA[KS 6500iE]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 6500iE]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/2a83df7e-3700-4865-838f-94e795330d0c.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/854068de-224a-4dfe-a4da-9bd47c37e53e.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c2c0c509-9663-4919-acff-f4bd279e1837.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/259b7f75-70ce-4f74-864d-8ba5740c8cbc.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/92b41a30-64d7-4836-afd1-7a49cd5347e4.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-6500ie-inverterinis-generatorius-6-5-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 6500iE Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų rezervinis maitinimas, jautri elektronika, kempingas, darbai lauke Könner &amp; Söhnen KS 6500iE – inverterinis benzininis generatorius su elektriniu paleidimu. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 230 Maksimali galia, kW: 6.5 Nominali galia, kW: 6.0 Variklio užvedimas: rankinis/elektrinis Galios faktorius, cosφ: 1 Dažnis, Hz: 50 Srovė (maks.), A: 28.6 Kuro bako talpa, l: 17 Veikimo laikas esant 50% apkrovai, h: 6 Triukšmo lygis Lpa (7m)/Lwa, dB: 70/97 Galia DC, V/A: 12/8.3 USB-Išvestys: USB QC 3.0 + Type C Variklio modelis: KS 310i Variklio cilindro tūris, cm3: 306 Variklio tipas: Benzinu varomas vieno cilindro, keturtaktis oro aušinamas Variklio galia, AG: 10.4 Akumuliatorius (A·h): 1.6 Generatoriaus apvija: Varis Apsaugos klasė: IP23M Grynasis matmenys (IxPxA), mm: 615×465×492 Bendri matmenys (IxPxA), mm: 745×490×505 Grynasis svoris, kg: 42 Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M4TD39GNETJV82GZ9NCFSPRX">
     <title><![CDATA[Könner & Söhnen KS 7000E ATS benzininis generatorius 5,5 kW]]></title>
     <price>1009.00</price>
@@ -2782,30 +2520,6 @@
     <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
     <description><![CDATA[Modelis: KS 48V-DC Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: akumuliatorių įkrovimas, telekomunikacijų ir autonominės 48 V sistemos Könner &amp; Söhnen KS 48V-DC – nuolatinės srovės (48 V) generatorius. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 48 V DC Nominali galia: 3,3 kW Kuras: benzinas Kuro bako talpa: 12,5 l Darbo laikas esant 50 % apkrovai: ~7 val. Triukšmo lygis Lpa (7 m) / Lwa: 70/95 dB Variklio darbinis tūris: 223 cm³ Svoris: 36,5 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7WM1CS86NWVAENBGXXQGNJE">
-    <title><![CDATA[Könner & Söhnen KS 4000iEG S dujinis-benzininis inverterinis generatorius 4,4 kW]]></title>
-    <price>1029.00</price>
-    <condition>new</condition>
-    <ean_code>4260405364756</ean_code>
-    <manufacturer_code><![CDATA[KS 4000iEG S]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 4000iEG S]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/12086ca1-a2b9-47ea-9ab4-470c1846090f.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/f36b81de-2377-4ae7-a3d0-7b690aa2802a.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/a08aecca-d2e0-4ed0-bf89-f10adf6c10a6.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/d0ed561c-c460-4298-a256-ee41dce8b290.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/da0e9c50-6887-4700-a2ea-29f50c538b0c.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-4000ieg-s-dujinis-benzininis-inverterinis-generatorius-4-4-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 4000iEG S Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų rezervinis maitinimas, jautri elektronika, kempingas, darbai lauke Könner &amp; Söhnen KS 4000iEG S – inverterinis generatorius, veikiantis dujomis (LPG) arba benzinu, su elektriniu paleidimu. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 230 Maksimali galia, kW: 4.4 Nominali galia, kW: 4.0 Variklio užvedimas: Rankinis/elektrinis Galios faktorius, cosφ: 1 Dažnis, Hz: 50 Srovė (maks.), A: 17.4 Kuro bako talpa, l: 12 Veikimo laikas esant 50% apkrovai, h: 7 h 15 min Triukšmo lygis Lpa (7m)/Lwa, dB: 66/97 Galia DC, V/A: + Variklio modelis: KS 240i Variklio tipas: Vieno cilindro, keturtaktis, oru aušinamas, varomas LPG/benzinu Variklio galia, AG: 7.5 Variklio cilindro tūris, cm3: 223 Akumuliatorius (A·h): 1.6 Generatoriaus apvija: Varis Apsaugos klasė: IP23M Grynasis matmenys (IxPxA), mm: 620x440x510 Bendri matmenys (IxPxA), mm: 675х500х575 Grynasis svoris, kg: 41 Kaina nurodyta su PVM.]]></description>
     <delivery>
       <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
@@ -3329,76 +3043,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M7WM10YQPM08GBYBJ80JMXQF">
-    <title><![CDATA[Könner & Söhnen KS 4000iE S ATS inverterinis generatorius 4,4 kW su ATS]]></title>
-    <price>1259.00</price>
-    <condition>new</condition>
-    <ean_code>4260405365784</ean_code>
-    <manufacturer_code><![CDATA[KS 4000iE S ATS]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 4000iE S ATS]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/6efa1de8-25ae-4dae-afb6-f4bd446e4868.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/b839f105-4f91-450a-b45a-887f69516a76.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/2cc97d02-646a-4f89-a6c9-ec32b19612c8.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/7863b222-9cfd-4b73-97df-a69e65aafeca.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/59cf3a79-dc85-49f5-ae28-fb58e20b5017.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-4000ie-s-ats-inverterinis-generatorius-4-4-kw-su-ats]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 4000iE S ATS Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: automatinis rezervinis namo maitinimas dingus elektrai Könner &amp; Söhnen KS 4000iE S ATS – inverterinis benzininis generatorius su elektriniu paleidimu, paruoštas automatiniam rezervo įjungimui (ATS). Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 230 Maksimali galia, kW: 4.4 Nominali galia, kW: 4 Variklio užvedimas: Rankinis/elektrinis/automatinis Galimas naudojimas: tik individualiems elektros vartotojams Galios faktorius, cosφ: 1 Dažnis, Hz: 50 Srovė (maks.), A: 17.4 Kuro bako talpa, l: 12 Veikimo laikas esant 50% apkrovai, h: 7 h 45 min Triukšmo lygis Lpa (7m)/Lwa, dB: 66/95 Variklio modelis: KS 240i Variklio cilindro tūris, cm3: 223 Variklio tipas: Benzinu varomas vieno cilindro, keturtaktis oru aušinamas Variklio galia, AG: 7.5 Galimybė lygiagrečiam sujungimui: - Išvestis ATS: Integruotas ATS Akumuliatorius (A·h): 1.6 Generatoriaus apvija: Varis Grynasis matmenys (IxPxA), mm: 620х440х510 Bendri matmenys (IxPxA), mm: 645х490х595 Grynasis svoris, kg: 40 Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M4TD3AGBGZ9DSPKXD3V314NB">
-    <title><![CDATA[Könner & Söhnen KS 6000iE S inverterinis generatorius 5,5 kW]]></title>
-    <price>1259.00</price>
-    <condition>new</condition>
-    <ean_code>4260405365791</ean_code>
-    <manufacturer_code><![CDATA[KS 6000iE S]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 6000iE S]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/7d5852b2-4e5d-4f5b-bb6c-aa9b2c435ac2.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/33879926-fb69-4042-b203-fddbefcd354a.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/fcb08650-b890-4795-b3bd-17591e340d00.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/5a79c23a-0675-4ca6-93f1-053401eaf50a.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-6000ie-s-inverterinis-generatorius-5-5-kw]]></product_url>
-    <category_name><![CDATA[Inverteriniai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 6000iE S Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: jautrios elektronikos maitinimas, laisvalaikis, rezervinis maitinimas Könner &amp; Söhnen KS 6000iE S – inverterinis generatorius, gaminantis stabilią, „švarią“ elektros srovę, saugią jautriai elektronikai. Ekonomiškas ir tylus. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 5,5 / 5,0 kW Lizdai: 1 × Schuko 230 V, 1 × CEE 230 V 32 A Kuras: benzinas Kuro bako talpa: 14,5 l Darbo laikas esant 50 % apkrovai: ~7 val. Triukšmo lygis (7 m): 70 dB Variklis: KS 240i, 223 cm³ Paleidimas: rankinis ir elektrinis Įtampos reguliavimas: inverteris Matmenys: 640 × 450 × 570 mm Svoris: 43 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M4TD3DJDVXV5TTB03A0KJSD9">
-    <title><![CDATA[Könner & Söhnen KS 6100HDE dyzelinis generatorius 5,5 kW]]></title>
-    <price>1259.00</price>
-    <condition>new</condition>
-    <ean_code>4260405362592</ean_code>
-    <manufacturer_code><![CDATA[KS 6100HDE]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 6100HDE]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/b8126ab7-99e1-4c62-a516-b08e3b804e02.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/345cdf61-8aae-4e27-af6b-87341d3465f2.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/767e4855-20a2-4fc0-8550-49f7bb0bee24.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/a6f70da4-9781-4a72-a396-8fd582c75919.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-6100hde-dyzelinis-generatorius-5-5-kw]]></product_url>
-    <category_name><![CDATA[Dyzeliniai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 6100HDE Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KS 6100HDE – dyzelinis generatorius su „Heavy Duty“ didelio resurso varikliu, sutvirtintu rėmu ir AVR įtampos stabilizavimu. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 5,5 / 5,0 kW Lizdai: 1 × Schuko 230 V, 1 × CEE 230 V 32 A Kuras: dyzelinas Kuro bako talpa: 11 l Darbo laikas esant 50 % apkrovai: ~8,5 val. Triukšmo lygis (7 m): 71 dB Variklis: KS 440HD-V, 418 cm³ Paleidimas: rankinis ir elektrinis Įtampos reguliavimas: AVR Svoris: 107 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M4TD3BJGN8WEHMTYXXPS70XP">
     <title><![CDATA[Könner & Söhnen KS 10000E-1/3 benzininis generatorius 8,0 kW 230/400 V]]></title>
     <price>1259.00</price>
@@ -3417,29 +3061,6 @@
     <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
     <description><![CDATA[Modelis: KS 10000E-1/3 Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KS 10000E-1/3 – patikimas benzininis elektros generatorius su AVR įtampos stabilizavimu, 100 % varinėmis apvijomis ir tvirtu plieniniu rėmu. Tiekia ir 230 V (1 fazė), ir 400 V (3 fazės) įtampą. Techniniai duomenys Įtampa: 230 V / 400 V, 50 Hz Galia (maks. / nominali) 230 V: 8,0 / 7,5 kW Galia (maks. / nominali) 400 V: 8,0 / 7,5 kW Lizdai: 1 × CEE 230 V 32 A, 1 × CEE 400 V 16 A Kuras: benzinas Kuro bako talpa: 25 l Darbo laikas esant 50 % apkrovai: ~15 val. Triukšmo lygis (7 m): 71 dB Variklis: KS 440, 440 cm³ Paleidimas: rankinis ir elektrinis Įtampos reguliavimas: AVR Matmenys: 680 × 545 × 550 mm Svoris: 88 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M4TD3C8Y0RJW5RX5R3EJ7EAN">
-    <title><![CDATA[Könner & Söhnen KS 10000E-3 ATS benzininis generatorius 8,0 kW 230/400 V]]></title>
-    <price>1259.00</price>
-    <condition>new</condition>
-    <ean_code>4260405361700</ean_code>
-    <manufacturer_code><![CDATA[KS 10000E-3 ATS]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 10000E-3 ATS]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/a19e8cf3-b999-4e89-b4ba-8918fb235931.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/27c48320-2c70-4ef8-a4f1-a34451246b89.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/f3433b7a-7f08-4500-9cd0-8d68c14d2746.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/828ab832-cde6-4b8b-b8bc-d3b1d56021ed.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-10000e-3-ats-benzininis-generatorius-8-0-kw-230-400-v]]></product_url>
-    <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 10000E-3 ATS Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KS 10000E-3 ATS – patikimas benzininis elektros generatorius su AVR įtampos stabilizavimu, 100 % varinėmis apvijomis ir tvirtu plieniniu rėmu. Su ATS funkcija – generatorius stebi tinklo įtampą, dingus elektrai įsijungia automatiškai ir išsijungia, kai maitinimas atsistato. Tiekia ir 230 V (1 fazė), ir 400 V (3 fazės) įtampą. Techniniai duomenys Įtampa: 230 V / 400 V, 50 Hz Galia (maks. / nominali) 230 V: 8,0 / 7,5 kW Lizdai: 1 × Schuko 230 V, 1 × CEE 400 V 16 A Kuras: benzinas Kuro bako talpa: 25 l Darbo laikas esant 50 % apkrovai: ~15 val. Triukšmo lygis (7 m): 71 dB Variklis: KS 440, 440 cm³ Paleidimas: rankinis, elektrinis ir automatinis (ATS) Įtampos reguliavimas: AVR Matmenys: 680 × 545 × 550 mm Svoris: 89,2 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
       <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
@@ -3774,52 +3395,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M4TD3E1MSF02ED4X03A8AMGN">
-    <title><![CDATA[Könner & Söhnen KS 8100HDE dyzelinis generatorius 6,5 kW]]></title>
-    <price>1419.00</price>
-    <condition>new</condition>
-    <ean_code>4260405362110</ean_code>
-    <manufacturer_code><![CDATA[KS 8100HDE]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 8100HDE]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/eaa1d313-6221-473f-bb8e-aa0fa3848662.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/49ac8d91-d925-4483-aa6c-b4228431882d.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/1ed17923-c0af-428c-8518-5098d2174d20.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/b5f6a5b9-e1a7-49b8-a0d5-071f4ddcccb1.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-8100hde-dyzelinis-generatorius-6-5-kw]]></product_url>
-    <category_name><![CDATA[Dyzeliniai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 8100HDE Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KS 8100HDE – dyzelinis generatorius su „Heavy Duty“ didelio resurso varikliu, sutvirtintu rėmu ir AVR įtampos stabilizavimu. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 6,5 / 6,0 kW Lizdai: 1 × Schuko 230 V, 1 × CEE 230 V 32 A Kuras: dyzelinas Kuro bako talpa: 11 l Darbo laikas esant 50 % apkrovai: ~6,9 val. Triukšmo lygis (7 m): 71 dB Variklis: KS 480HD-V, 456 cm³ Paleidimas: rankinis ir elektrinis Įtampos reguliavimas: AVR Matmenys: 730 × 495 × 630 mm Svoris: 117 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M4TD3AVYK598DZFTH259XZZ9">
-    <title><![CDATA[Könner & Söhnen KS 6000iE S ATS inverterinis generatorius 5,5 kW]]></title>
-    <price>1439.00</price>
-    <condition>new</condition>
-    <ean_code>4260405365807</ean_code>
-    <manufacturer_code><![CDATA[KS 6000iE S ATS]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 6000iE S ATS]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/1dff8799-78ef-45f4-8a29-e228c366919b.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/a3fc1391-55f8-477a-8f36-0b90289995d1.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/1bfd8331-b713-410d-b5bd-b0f399c3eadd.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/fb1fb488-d515-4520-933b-60b654fc5b56.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-6000ie-s-ats-inverterinis-generatorius-5-5-kw]]></product_url>
-    <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 6000iE S ATS Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: jautrios elektronikos maitinimas, laisvalaikis, rezervinis maitinimas Könner &amp; Söhnen KS 6000iE S ATS – inverterinis generatorius, gaminantis stabilią, „švarią“ elektros srovę, saugią jautriai elektronikai. Ekonomiškas ir tylus. Su ATS funkcija – generatorius stebi tinklo įtampą, dingus elektrai įsijungia automatiškai ir išsijungia, kai maitinimas atsistato. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 5,5 / 5,0 kW Lizdai: 1 × CEE 230 V 32 A Kuras: benzinas Kuro bako talpa: 11 l Triukšmo lygis (7 m): 70 dB Variklis: KS 240i, 223 cm³ Paleidimas: rankinis, elektrinis ir automatinis (ATS) Įtampos reguliavimas: inverteris Svoris: 40 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M6GPXF0GWRBGVMR6EQBVV3VS">
     <title><![CDATA[DG8500SE3 Dyzelinis 8 kVA / 6,5 kW elektros generatorius 230V/400V]]></title>
     <price>1439.90</price>
@@ -4062,29 +3637,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M4TD3EQ2EFX8XHJY3MG9VZK6">
-    <title><![CDATA[Könner & Söhnen KS 9100HDE-1/3 ATSR (Euro V) dyzelinis generatorius 6,5 kW 230/400 V]]></title>
-    <price>1609.00</price>
-    <condition>new</condition>
-    <ean_code>4260405362288</ean_code>
-    <manufacturer_code><![CDATA[KS 9100HDE-1/3 ATSR]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 9100HDE-1/3 ATSR]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/41fa27fd-93e3-4dab-bea1-a7b3ea891582.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c04aa038-9ff4-4be3-9c7a-1a06f82610be.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/5d67bd71-463c-4117-8b07-b2c73e945bcf.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/a80b6d9b-1c1c-477a-8de5-3b8ff785958e.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-9100hde-1-3-atsr-euro-v-dyzelinis-generatorius-6-5-kw-230-400-v]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 9100HDE-1/3 ATSR (Euro V) Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KS 9100HDE-1/3 ATSR (Euro V) – dyzelinis generatorius su „Heavy Duty“ didelio resurso varikliu, sutvirtintu rėmu ir AVR įtampos stabilizavimu. Paruoštas automatinio rezervo įjungimui (ATS jungtis). Tiekia ir 230 V (1 fazė), ir 400 V (3 fazės) įtampą. Variklis atitinka EURO V emisijų reikalavimus. Techniniai duomenys Įtampa: 230 V / 400 V, 50 Hz Galia (maks. / nominali) 230 V: 6,5 / 6,0 kW Galia (maks. / nominali) 400 V: 7,5 / 7,0 kW Lizdai: 1 × CEE 230 V 32 A, 1 × CEE 400 V 16 A Kuras: dyzelinas Kuro bako talpa: 11 l Darbo laikas esant 50 % apkrovai: ~6,1 val. Triukšmo lygis (7 m): 71 dB Variklis: KS 520HD-V, 498 cm³ Paleidimas: rankinis ir elektrinis Įtampos reguliavimas: AVR Matmenys: 730 × 495 × 630 mm Svoris: 122 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M5M5441WSN1EJ47P10GY9Q9S">
     <title><![CDATA[Pramac E 8000 benzininis generatorius 6,4 kW 230 V]]></title>
     <price>1609.00</price>
@@ -4152,54 +3704,6 @@
     <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
     <description><![CDATA[Energy EY-7MB AVR – benzininis elektros generatorius, 6 kW maksimalios galios, 230 V. Tinka namų ūkio rezerviniam maitinimui, statyboms, ūkiui ir darbams lauke. Techniniai duomenys Gamintojas: Energy Modelis: EY01000373 Kuras: benzinas Maksimali galia: 6 kW Nuolatinė galia 230 V: 5,4 kW Įtampa: 230 V, 50 Hz (1 fazė) Inverteris: ne (AVR įtampos reguliavimas) Paleidimas: rankinis Variklis: Honda GX390 Darbinis tūris: 389 cm³ Konstrukcija: su rėmu / ant ratų Svoris su pakuote: 96,7 kg Pristatymas į Lietuvą per 10–14 darbo dienų. Servispro atlieka generatorių paleidimą, techninę priežiūrą, garantinį ir pogarantinį remontą Kaune bei mobiliuoju servisu visoje Lietuvoje. Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7WM2NMBPR6SZCJDRKHNXMTS">
-    <title><![CDATA[Könner & Söhnen KS 8100iE 1/3 ATSR inverterinis generatorius 8,5 kW 230/400 V]]></title>
-    <price>1639.00</price>
-    <condition>new</condition>
-    <ean_code>4260405368365</ean_code>
-    <manufacturer_code><![CDATA[KS 8100iE 1/3 ATSR]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 8100iE 1/3 ATSR]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/21754eff-320b-480f-ab38-a37782cd0e51.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/ef57c642-440d-473c-8fe7-0eaafc7085e0.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/14f4deb7-6a82-454e-83a5-a688c5b8dae7.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c8f534cd-c980-4711-bd4d-29d4380c8b05.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c97c4740-1d0a-4646-a6ad-9d80afb2fe06.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-8100ie-1-3-atsr-inverterinis-generatorius-8-5-kw-230-400-v]]></product_url>
-    <category_name><![CDATA[Benzininiai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 8100iE 1/3 ATSR Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: automatinis rezervinis namo maitinimas dingus elektrai Könner &amp; Söhnen KS 8100iE 1/3 ATSR – inverterinis benzininis generatorius 230/400 V su automatiniu rezervo įjungimu (ATS). Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 230/400 Maksimali galia, kW: 8,5 kW (230 V)/8,5 kW (400 V) Nominali galia, kW: 8,0 kW (230 V)/8,0 kW (400 V) Variklio užvedimas: elektrinis Galios faktorius, cosφ: 1 Dažnis, Hz: 50 Srovė (maks.), A: 36.9A / 15.35A Kuro bako talpa, l: 20 Veikimo laikas esant 50% apkrovai, h: 6 Triukšmo lygis Lpa (7m)/Lwa, dB: 70/97 USB-Išvestys: USB 3.0 + Type C Variklio modelis: KS 480i Variklio cilindro tūris, cm3: 458 Variklio tipas: 4-taktis benzinas Variklio galia, AG: 16 Išvestis ATS: + Akumuliatorius (A·h): 1.6 Apsaugos klasė: IP23M Grynasis matmenys (IxPxA), mm: 715×505×555 Bendri matmenys (IxPxA), mm: 730×520×580 Grynasis svoris, kg: 68 Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7WM2WWNXFN6AF1FPR3K75KK">
-    <title><![CDATA[Könner & Söhnen KS 8100iEG dujinis-benzininis inverterinis generatorius 8,5 kW]]></title>
-    <price>1639.00</price>
-    <condition>new</condition>
-    <ean_code>4260405364817</ean_code>
-    <manufacturer_code><![CDATA[KS 8100iEG]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 8100iEG]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/7aa173b6-4896-477e-81cc-e398ad7465da.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/ffdfcda6-9bfd-4e32-9071-f419634eff8f.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/9a3d1412-690f-4be9-ace4-6d1a3241f283.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/62c3e042-f063-40fd-9dc2-81b2a06b175a.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/23d35eba-e1d1-423d-9d11-bc095098eefc.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-8100ieg-dujinis-benzininis-inverterinis-generatorius-8-5-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 8100iEG Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų rezervinis maitinimas, jautri elektronika, kempingas, darbai lauke Könner &amp; Söhnen KS 8100iEG – inverterinis generatorius, veikiantis dujomis (LPG) arba benzinu, su elektriniu paleidimu. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa, V: 230 Maksimali galia, kW: 8.5 Nominali galia, kW: 8.0 Variklio užvedimas: Elektrinis Galios faktorius, cosφ: 1 Dažnis, Hz: 50 Srovė (maks.), A: 34.8 Kuro bako talpa, l: 20 Veikimo laikas esant 50% apkrovai, h: 7.1 Triukšmo lygis Lpa (7m)/Lwa, dB: 70/97 Galia DC, V/A: 12V/8.3A Variklio modelis: KS 480i Variklio tipas: Vieno cilindro, keturtaktis, oru aušinamas, LPG/benzinu varomas Variklio galia, AG: 16 Variklio cilindro tūris, cm3: 458 Akumuliatorius (A·h): 1.6 Generatoriaus apvija: Varis Apsaugos klasė: IP23M Grynasis matmenys (IxPxA), mm: 765х505х555 Bendri matmenys (IxPxA), mm: 730x520x580 Grynasis svoris, kg: 68 Kaina nurodyta su PVM.]]></description>
     <delivery>
       <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
@@ -4363,30 +3867,6 @@
     <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
     <description><![CDATA[Pramac PMD5000s – dyzelinis elektros generatorius su garso izoliaciniu gaubtu, 5 kW maksimalios galios, 230 V, su automatinio paleidimo (ATS) skydu – nutrūkus tinklo įtampai generatorius pasileidžia pats. Tinka ilgam darbui statybose, ūkyje ir rezerviniam maitinimui. Techniniai duomenys Gamintojas: Pramac Kuras: dyzelinas Maksimali galia: 5 kW Nuolatinė galia 230 V: 4,2 kW Įtampa: 230 V, 50 Hz (1 fazė) Inverteris: ne (AVR įtampos reguliavimas) Paleidimas: elektrinis ir rankinis Automatinis paleidimas (ATS): taip, ATS skydas komplekte Tylus: taip, su garso izoliaciniu gaubtu Variklis: 186FAD Darbinis tūris: 418 cm³ Konstrukcija: su rėmu / ant ratų Svoris su pakuote: 189 kg Pristatymas į Lietuvą per 10–14 darbo dienų. Servispro atlieka generatorių paleidimą, techninę priežiūrą, garantinį ir pogarantinį remontą Kaune bei mobiliuoju servisu visoje Lietuvoje. Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7WKZC65BFAXWKXXBXWCR3QD">
-    <title><![CDATA[Könner & Söhnen KS 6100iDE ATSR dyzelinis inverterinis generatorius 5,5 kW]]></title>
-    <price>1859.00</price>
-    <condition>new</condition>
-    <ean_code>4260405367467</ean_code>
-    <manufacturer_code><![CDATA[KS 6100iDE ATSR]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 6100iDE ATSR]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/6645ef9b-b3c1-43ef-b248-fc95281634bf.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/70296dfc-b647-4d9f-8a5c-600e6479fe27.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/9dc4421b-d8cb-49f3-b8e9-832aa58995a3.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c8299ea4-f1a4-4be2-b0cd-fc37b8869be0.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/cbff4189-9215-440f-9fdb-586985449a02.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-6100ide-atsr-dyzelinis-inverterinis-generatorius-5-5-kw]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 6100iDE ATSR Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: rezervinis namo ar objekto maitinimas, ilgas autonominis darbas, jautri elektronika Könner &amp; Söhnen KS 6100iDE ATSR – dyzelinis inverterinis generatorius su automatiniu rezervo įjungimu (ATS). Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Dažnis, Hz: 50 Maksimali/Nominali galia (230V), kW: 5.5/5.0 Kuro bako talpa, l: 18 Veikimo laikas esant 50% apkrovai, h: 19 Įtampa, V: 230 Galios faktorius, cosφ: 1 Srovė (maks.), A: 23.9 Triukšmo lygis Lpa (7m)/Lwa, dB: 72/97 Galia DC, V/A: 8.3A Variklio tipas: dyzelinis vieno cilindro, keturtaktis oru aušinamas Variklio modelis: KS 480iD Variklio galia, AG/kW: 8.8/6.5 Variklio cilindro tūris, cm3: 456 Variklio užvedimas: Rankinis/elektrinis Akumuliatorius (A·h): 28 Išvestis ATS: + Apsaugos klasė: IP23M Bendri matmenys (IxPxA), mm: 675x525x655 Grynasis svoris, kg: 97 Kaina nurodyta su PVM.]]></description>
     <delivery>
       <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
@@ -4580,29 +4060,6 @@
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
     </delivery>
   </product>
-  <product id="prod_01M4TD3FBY6YQGJ2K4J33GZKRG">
-    <title><![CDATA[Könner & Söhnen KS 9300DE-1/3 ATSR (Euro V) dyzelinis generatorius 6,5 kW 230/400 V]]></title>
-    <price>2159.00</price>
-    <condition>new</condition>
-    <ean_code>4260405365210</ean_code>
-    <manufacturer_code><![CDATA[KS 9300DE-1/3 ATSR]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 9300DE-1/3 ATSR]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/db9cf863-2551-428f-b8a3-b0b23e5a0df7.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/11f868de-ae8c-4e94-b42a-ce2cd9dd500c.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/26de81b4-25a7-4edf-b76c-9f7f9a915e37.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/6f5ab1db-ee23-4830-8557-754bef2396fe.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-9300de-1-3-atsr-euro-v-dyzelinis-generatorius-6-5-kw-230-400-v]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 9300DE-1/3 ATSR (Euro V) Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KS 9300DE-1/3 ATSR (Euro V) – dyzelinis generatorius triukšmą slopinančiame gaubte su „Heavy Duty“ didelio resurso varikliu ir AVR įtampos stabilizavimu. Paruoštas automatinio rezervo įjungimui (ATS jungtis). Tiekia ir 230 V (1 fazė), ir 400 V (3 fazės) įtampą. Variklis atitinka EURO V emisijų reikalavimus. Techniniai duomenys Įtampa: 230 V / 400 V, 50 Hz Galia (maks. / nominali) 230 V: 6,5 / 6,0 kW Galia (maks. / nominali) 400 V: 7,5 / 7,0 kW Lizdai: 1 × CEE 230 V 32 A, 1 × CEE 400 V 16 A Kuras: dyzelinas Kuro bako talpa: 15 l Darbo laikas esant 50 % apkrovai: ~8,3 val. Triukšmo lygis (7 m): 66 dB Variklis: KS 520HD-V, 498 cm³ Paleidimas: elektrinis Įtampos reguliavimas: AVR Matmenys: 920 × 580 × 860 mm Svoris: 168 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
   <product id="prod_01M4TBK5NYKFQPG9SF8WS95HPC">
     <title><![CDATA[Genergy Tenerife II inverterinis generatorius 7 500 W]]></title>
     <price>2219.00</price>
@@ -4756,30 +4213,6 @@
     <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
     <description><![CDATA[Hyundai HP7500CXE-3 – dyzelinis elektros generatorius, 5,2 kW maksimalios galios, 230/400 V, su automatinio paleidimo (ATS) skydu – nutrūkus tinklo įtampai generatorius pasileidžia pats. Tinka ilgam darbui statybose, ūkyje ir rezerviniam maitinimui. Techniniai duomenys Gamintojas: Hyundai Kuras: dyzelinas Maksimali galia: 5,2 kW Nuolatinė galia 230 V: 4,5 kW Nuolatinė galia 400 V: 4,5 kW Įtampa: 230 V ir 400 V, 50 Hz (Full-Power – visa galia abiem įtampom) Inverteris: ne (AVR įtampos reguliavimas) Paleidimas: elektrinis ir rankinis Automatinis paleidimas (ATS): taip, ATS skydas komplekte (1 fazės) Variklis: gamintojo variklis Darbinis tūris: 456 cm³ Konstrukcija: su rėmu / ant ratų Svoris su pakuote: 130 kg Pristatymas į Lietuvą per 10–14 darbo dienų. Servispro atlieka generatorių paleidimą, techninę priežiūrą, garantinį ir pogarantinį remontą Kaune bei mobiliuoju servisu visoje Lietuvoje. Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M7WKZWH4ZRRWFFS7YSTWQ0MC">
-    <title><![CDATA[Könner & Söhnen KS 6500iDE S ATSR dyzelinis inverterinis generatorius 6,5 kW]]></title>
-    <price>2509.00</price>
-    <condition>new</condition>
-    <ean_code>4260405368730</ean_code>
-    <manufacturer_code><![CDATA[KS 6500iDE S ATSR]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 6500iDE S ATSR]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/c6bf8b23-f9a1-47b2-87ae-95cac0a3294f.png]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/8d541a85-4d50-44c9-9c3f-e18eee0917b9.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/d9dae11f-536b-47cb-9fd2-8b44ca6455fe.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/ea3131fe-0a53-4144-8ccb-a83199bcb784.png]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/f57579c5-abbb-4812-abf8-96144b178314.png]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-6500ide-s-atsr-dyzelinis-inverterinis-generatorius-6-5-kw]]></product_url>
-    <category_name><![CDATA[Dyzeliniai generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 6500iDE S ATSR Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: rezervinis namo ar objekto maitinimas, ilgas autonominis darbas, jautri elektronika Könner &amp; Söhnen KS 6500iDE S ATSR – dyzelinis inverterinis generatorius garso izoliacijos korpuse su automatiniu rezervo įjungimu (ATS). Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Dažnis, Hz: 50 Maksimali/Nominali galia (230V), kW: 6.5/6.0 Kuro bako talpa, l: 25 Kuro sąnaudos esant 50% apkrovai, l/val.: 1.2 Įtampa, V: 230 Galios faktorius, cosφ: 1 Srovė (maks.), A: 28.3 Triukšmo lygis Lpa (7m)/Lwa, dB: 69/97 Variklio tipas: dyzelinis, 1-cilindras, 4-taktis, oru aušinamas Variklio modelis: KS 520iD Variklio galia, AG/kW: 11.5/8.5 Išorinio įkroviklio jungtis: DC5521 Variklio cilindro tūris, cm3: 498 Variklio užvedimas: elektrinis / nuotolinis Akumuliatorius (A·h): Švino rūgšties 12V 36Ah Išvestis ATS: taip Apsaugos klasė: IP23M Bendri matmenys (IxPxA), mm: 870×580×765 Grynasis svoris, kg: 119 Kaina nurodyta su PVM.]]></description>
     <delivery>
       <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
@@ -5255,7 +4688,7 @@
   </product>
   <product id="prod_01M4TD3D8J5GP1RBNWWXKB9RDY">
     <title><![CDATA[Könner & Söhnen KS 15-1E 1/3 ATSR benzininis generatorius 11,5 kW 230/400 V]]></title>
-    <price>3849.00</price>
+    <price>3999.00</price>
     <condition>new</condition>
     <ean_code>4260405363445</ean_code>
     <manufacturer_code><![CDATA[KS 15-1E 1/3 ATSR]]></manufacturer_code>
@@ -5432,29 +4865,6 @@
     <category_name><![CDATA[Dyzeliniai generatoriai]]></category_name>
     <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
     <description><![CDATA[Modelis: KS 16-1E Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ir nedidelių objektų rezervinis maitinimas, statybos, ūkis Könner &amp; Söhnen KS 16-1E – dyzelinis generatorius. Garantinį ir pogarantinį servisą atliekame patys – dirbtuvėse Kaune arba mobiliu servisu visoje Lietuvoje. Techniniai duomenys Įtampa: 230 V, 50 Hz Galia (maks. / nominali): 16 / 15 kVA Kuras: dyzelinas Kuro bako talpa: 30 l Triukšmo lygis Lpa (7 m) / Lwa: 76/96 dB Variklio darbinis tūris: 1326 cm³ Paleidimas: elektrinis Svoris: 360 kg Kaina nurodyta su PVM.]]></description>
-    <delivery>
-      <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
-      <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
-    </delivery>
-  </product>
-  <product id="prod_01M4TD3FPK9TXE5Y8VA334QQA1">
-    <title><![CDATA[Könner & Söhnen KS 16-1/3E dyzelinis generatorius 16 kVA 230/400 V]]></title>
-    <price>6039.00</price>
-    <condition>new</condition>
-    <ean_code>4260405368174</ean_code>
-    <manufacturer_code><![CDATA[KS 16-1/3E]]></manufacturer_code>
-    <manufacturer><![CDATA[Könner & Söhnen]]></manufacturer>
-    <model><![CDATA[KS 16-1/3E]]></model>
-    <image_url><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/470a1395-7688-4b46-b6be-5ee42bd59581.jpg]]></image_url>
-    <additional_images>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/e8f6d72e-a611-4ed5-bcf2-7742fad39740.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/70e957ea-b5d1-42ee-b10c-76e030b791a2.jpg]]></image>
-      <image><![CDATA[https://cdn.zyrosite.com/cdn-ecommerce/store_01JPSAPRXCATXR1VQJVT4511W6/assets/6f18720d-61ed-423e-bac9-9cc1f133abe4.jpg]]></image>
-    </additional_images>
-    <product_url><![CDATA[https://www.servispro.lt/konner-and-sohnen-ks-16-1-3e-dyzelinis-generatorius-16-kva-230-400-v]]></product_url>
-    <category_name><![CDATA[Mobilūs generatoriai]]></category_name>
-    <category_link><![CDATA[https://www.servispro.lt/prekes]]></category_link>
-    <description><![CDATA[Modelis: KS 16-1/3E Gamintojas: Könner &amp; Söhnen (Vokietija) Paskirtis: namų ūkio rezervinis maitinimas, statybos, ūkis, darbai lauke Könner &amp; Söhnen KS 16-1/3E – dyzelinis generatorius triukšmą slopinančiame gaubte su „Heavy Duty“ didelio resurso varikliu ir AVR įtampos stabilizavimu. Turi išvestį ATS prijungimui ir daugiafunkcį skaitmeninį valdiklį. Tiekia ir 230 V (1 fazė), ir 400 V (3 fazės) įtampą. Techniniai duomenys Įtampa: 230 V / 400 V, 50 Hz Galia (maks. / nominali) 230 V: 16 kVA / 15 kVA Galia (maks. / nominali) 400 V: 20 / 18,75 kVA Lizdai: 1 × CEE 400 V 32 A, 1 × CEE 230 V 63 A Kuras: dyzelinas Kuro bako talpa: 30 l Triukšmo lygis (7 m): 76 dB Variklis: KS 1400HD, 2 cilindrų, 1326 cm³ Paleidimas: elektrinis Įtampos reguliavimas: AVR Matmenys: 1320 × 820 × 880 mm Svoris: 363 kg Kaina nurodyta su PVM.]]></description>
     <delivery>
       <home_delivery><working_days>1-3</working_days><price>0.00</price></home_delivery>
       <store_pickup><working_days>1</working_days><price>0.00</price></store_pickup>
