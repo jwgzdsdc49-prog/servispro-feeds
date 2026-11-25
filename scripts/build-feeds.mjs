@@ -1,13 +1,11 @@
-// Generates price-portal XML feeds from the public servispro.lt (Hostinger) store API.
+// Generates price-portal XML feeds from the public servispro.lt Shopify store (products.json).
 // No dependencies; Node 18+.
 import { writeFileSync, mkdirSync, readFileSync } from 'node:fs';
 
-const STORE = 'https://api-ecommerce.hostinger.com/store/scha_01M3V8YV4RKR7HEJB1XR4F3NJM';
 const SITE = 'https://www.servispro.lt';
 const OUT = new URL('../docs/', import.meta.url);
 const MIN_PRICE = 5; // products priced as placeholders (e.g. 1 €, "price on request") are skipped
-// Products marked "(pristatymas nuo sausio)" in the title: supplier ships from Jan 2027
-const PREORDER = /pristatymas nuo sausio/i;
+// Pre-order products (Shopify tag "isankstinis"): supplier ships from Jan 2027
 const PREORDER_DATE = '2027-01-15T00:00:00+02:00';
 const PREORDER_DAYS = '30-60';
 // EAN codes keyed by model (source: manufacturers' own product pages)
@@ -15,10 +13,30 @@ const normModel = (m) => m.toUpperCase().replace(/[^A-Z0-9]/g, '');
 const EANS = Object.fromEntries(Object.entries(JSON.parse(readFileSync(new URL('./eans.json', import.meta.url), 'utf8'))).map(([k, v]) => [normModel(k), v]));
 
 const get = async (path) => {
-  const r = await fetch(STORE + path, { headers: { accept: 'application/json' } });
+  const r = await fetch(SITE + path, { headers: { accept: 'application/json', 'user-agent': 'servispro-feeds/2.0' } });
   if (!r.ok) throw new Error(`${path} -> HTTP ${r.status}`);
   return r.json();
 };
+
+// Shopify tags -> shop categories (first match is the main category)
+const CATS = [
+  ['saules', 'Saulės elektrinės', 'saules-elektrines'],
+  ['priedai', 'Generatorių priedai', 'generatoriu-priedai'],
+  ['dalys', 'Generatorių dalys', 'generatoriu-dalys'],
+  ['stacionarus', 'Stacionarūs generatoriai', 'stacionarus-generatoriai'],
+  ['inverterinis', 'Inverteriniai generatoriai', 'inverteriniai-generatoriai'],
+  ['dyzelinis', 'Dyzeliniai generatoriai', 'dyzeliniai-generatoriai'],
+  ['benzininis', 'Benzininiai generatoriai', 'benzininiai-generatoriai'],
+  ['mobilus', 'Mobilūs generatoriai', 'mobilus-generatoriai'],
+];
+// delivery time in working days, read from the delivery line at the top of the description
+function deliveryDays(text) {
+  const m = text.match(/Pristatymas per (\d+)\s*[–-]\s*(\d+) darbo dien/i);
+  if (m) return `${m[1]}-${m[2]}`;
+  if (/Prekė sandėlyje/i.test(text)) return '1-2';
+  if (/Pristatymas nuo gruodžio/i.test(text)) return '10-20';
+  return '5-9';
+}
 
 const esc = (s = '') => String(s)
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -56,37 +74,39 @@ function brandModel(title) {
 const SKIP_CAT = /^Galia:|priedas$/i;
 
 async function main() {
-  const { collections } = await get('/collections?limit=200');
-  const catName = Object.fromEntries(collections.map((c) => [c.id, c.title]));
-
   const products = [];
-  for (let offset = 0; ; offset += 100) {
-    const r = await get(`/products?limit=100&offset=${offset}`);
+  for (let page = 1; page < 20; page++) {
+    const r = await get(`/products.json?limit=250&page=${page}`);
     products.push(...r.products);
-    if (r.products.length < 100) break;
+    if (r.products.length < 250) break;
   }
 
   const items = [];
   for (const p of products) {
     const v = p.variants?.[0];
-    const price = v?.prices?.find((x) => x.currency_code === 'eur');
-    if (!v || !price || !v.is_available) continue;
-    const amountNum = (price.sale_amount ?? price.amount) / 100;
-    if (amountNum < MIN_PRICE) continue;
-    const cats = (p.product_collections || [])
-      .map((c) => catName[c.collection_id]).filter((n) => n && !SKIP_CAT.test(n));
-    const images = (p.images || []).sort((a, b) => a.order - b.order).map((i) => i.url);
-    const img = p.thumbnail || images[0] || '';
+    if (!v) continue;
+    const tags = (p.tags || []).map((t) => String(t).toLowerCase());
+    // sold out ("Išparduota") products are left out; made-to-order ("Gauti pasiūlymą") ones stay
+    if (!v.available && !tags.includes('uzklausa')) continue;
+    const amountNum = Number(v.price);
+    if (!(amountNum >= MIN_PRICE)) continue;
+    const cm = CATS.filter(([t]) => tags.includes(t));
+    const cats = cm.map((c) => c[1]);
+    const images = (p.images || []).sort((a, b) => a.position - b.position).map((i) => i.src);
+    const img = images[0] || '';
     const title = p.title.replace(/\s+/g, ' ').trim();
     const { brand, model } = brandModel(title);
+    const desc = clean(p.body_html);
+    const preorder = tags.includes('isankstinis');
+    const onRequest = tags.includes('uzklausa'); // Electrogen / solar systems: made to order
     items.push({
-      id: p.id, title, price: amountNum.toFixed(2), brand, model,
-      ean: model ? EANS[normModel(model)] || '' : '',
+      id: p.id, title, price: amountNum.toFixed(2), brand: brand || (p.vendor !== 'OTHER' ? p.vendor : ''), model,
+      ean: v.barcode || (model ? EANS[normModel(model)] || '' : ''),
       sku: v.sku || '',
-      url: `${SITE}/${p.slug || p.url_handle}`,
-      img, more: images.filter((u) => u !== img).slice(0, 9),
-      cat: cats[0] || 'Generatoriai', cats, desc: clean(p.description).slice(0, 3000),
-      preorder: PREORDER.test(title),
+      url: `${SITE}/products/${p.handle}`,
+      img, more: images.slice(1, 10),
+      cat: cats[0] || 'Generatoriai', cats, catLink: cm[0] ? `${SITE}/collections/${cm[0][2]}` : `${SITE}/collections/all`,
+      desc: desc.slice(0, 3000), preorder, days: preorder ? PREORDER_DAYS : onRequest ? '14-30' : deliveryDays(desc),
     });
   }
   if (items.length < 50) throw new Error(`Only ${items.length} products – refusing to overwrite feed`);
@@ -109,11 +129,11 @@ async function main() {
       i.more.length ? `    <additional_images>\n${i.more.map((u) => `      <image>${cdata(u)}</image>`).join('\n')}\n    </additional_images>` : null,
       `    <product_url>${cdata(i.url)}</product_url>`,
       `    <category_name>${cdata(i.cat)}</category_name>`,
-      `    <category_link>${cdata(SITE + '/prekes')}</category_link>`,
+      `    <category_link>${cdata(i.catLink)}</category_link>`,
       `    <description>${cdata(i.desc)}</description>`,
       '    <delivery>',
-      `      <home_delivery><working_days>${i.preorder ? PREORDER_DAYS : '1-3'}</working_days><price>0.00</price></home_delivery>`,
-      `      <store_pickup><working_days>${i.preorder ? PREORDER_DAYS : '1'}</working_days><price>0.00</price></store_pickup>`,
+      `      <home_delivery><working_days>${i.days}</working_days><price>0.00</price></home_delivery>`,
+      `      <store_pickup><working_days>${i.days}</working_days><price>0.00</price></store_pickup>`,
       '    </delivery>',
       '  </product>',
     ].filter(Boolean).join('\n')),
@@ -124,14 +144,14 @@ async function main() {
   console.log(`kaina24.xml: ${items.length} products (${items.filter((i) => i.model).length} with model, ${items.filter((i) => i.ean).length} with EAN)`);
 
   // ---- Google Merchant Center (RSS 2.0, g: namespace) ----
-  const GOOGLE_CAT = (i) => (/priedai|dalys/i.test(i.cat) ? '4709' : '1218'); // Generator Accessories / Generators
-  const productType = (i) => ['Generatoriai', ...i.cats.filter((c) => c !== 'Generatoriai')].slice(0, 3).join(' > ');
+  const GOOGLE_CAT = (i) => (/Saulės/i.test(i.cat) ? '' : /priedai|dalys/i.test(i.cat) ? '4709' : '1218'); // Generator Accessories / Generators
+  const productType = (i) => (i.cats.length ? i.cats.slice(0, 3).join(' > ') : 'Generatoriai');
   const gxml = [
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">',
     '<channel>',
     '<title>Servispro, UAB – generatoriai</title>',
-    `<link>${SITE}/prekes</link>`,
+    `<link>${SITE}/collections/all</link>`,
     '<description>Servispro el. parduotuvės prekės</description>',
     ...items.map((i) => [
       '<item>',
@@ -148,7 +168,7 @@ async function main() {
       `  <g:brand>${esc(i.brand || 'Servispro')}</g:brand>`,
       i.ean ? `  <g:gtin>${i.ean}</g:gtin>` : null,
       i.brand && i.model ? `  <g:mpn>${esc(i.model)}</g:mpn>` : '  <g:identifier_exists>no</g:identifier_exists>',
-      `  <g:google_product_category>${GOOGLE_CAT(i)}</g:google_product_category>`,
+      GOOGLE_CAT(i) ? `  <g:google_product_category>${GOOGLE_CAT(i)}</g:google_product_category>` : null,
       `  <g:product_type>${esc(productType(i))}</g:product_type>`,
       '</item>',
     ].filter(Boolean).join('\n')),
